@@ -1,0 +1,323 @@
+TRƯỜNG ĐẠI HỌC KIẾN TRÚC ĐÀ NẴNG
+QT.TCKT - 15
+QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU
+RA
+Người soạn thảoNgười kiểm traNgười phê duyệt
+Họ và tên
+Nguyễn Thị Kiều
+Nguyên
+Trần Thị Mai Lan Phạm Anh Tuấn
+Chức vụ      Nhân viên     Trưởng phòng   Hiệu trưởng
+Chữ ký (và
+dấu của người
+phê duyệt)
+1
+----------------Page (0) Break----------------
+1. MỤC ĐÍCH VÀ PHẠM VI
+Mục đích: Nhằm hướng dẫn cụ thể và thống nhất cách thức thu lệ phí thi chuẩn đầu ra 
+(ngoại ngữ, tin học...) cho sinh viên, đảm bảo đúng quy định, thuận tiện cho sinh 
+viên.
+Áp  dụng toàn bộ sinh viên của nhà trường và các đơn vị liên quan như Phòng Đào 
+tạo, Phòng Tài chính – Kế toán, Phòng khảo thí & đảm bảo chất lượng.
+2. TÀI LIỆU VIỆN DẪN
+- Thông báo lịch thi chuẩn đầu ra
+2
+----------------Page (1) Break----------------
+3. NỘI DUNG QUY TRÌNH
+Thứ
+tự
+Công việc
+Đơn vị
+thực hiện
+Người
+thực
+hiện
+Đơn vị
+phối hợp
+Đơn vị
+thừa hưởng
+dữ liệu
+Thực hiện
+khi nào
+Thời gian
+thực hiện
+(số ngày)
+Cách làm       Hồ sơ
+Bộ phận
+tiếp nhận
+1 Tiếp nhận thông
+báo tổ chức thi từ
+phòng Khảo thí
+& đảm chất
+lượng
+Phòng Tài chính - 
+Kế toán
+Kế toán
+doanh
+thu
+Phòng Khảo thí 
+và Đảm bảo 
+Chất lượng
+Phòng Khảo 
+thí và Đảm 
+bảo Chất 
+lượng
+Khi Phòng
+Khảo thí
+và Đảm
+bảo Chất
+lượng tổ
+chức thi
+Chuẩn đầu
+ra
+1   Mỗi năm Phòng Khảo thí 
+và Đảm bảo Chất lượng 
+tổ chức nhiều đợt thi 
+Chuẩn đầu ra theo kế 
+hoạch đào tạo cho sinh 
+viên thi để đủ điều kiện 
+ra trường. Sau khi được 
+Ban giám hiệu ký phê 
+duyệt Lịch kiểm tra 
+chuẩn đầu ra phòng 
+Khảo thí và Đảm bảo 
+Chất lượng gửi lịch tổ 
+chức thi này đến phòng 
+kế toán. Phòng Tài chinh 
+– Kế toán căn cứ từ 
+thông báo như: Mức lệ 
+phí phải đóng cho từng 
+kỹ năng thi, Khóa, ngành 
+tham gia thi, thi lại, thời 
+hạn nộp để lập kế hoạch 
+thu tiền.
+3
+----------------Page (2) Break----------------
+2 Tạo khoản thu
+ngoài học phí
+chuẩn đầu ra
+Phòng Tài chính - 
+Kế toán
+Kế toán
+doanh
+thu
+Phòng Khảo 
+thí và Đảm 
+bảo Chất 
+lượng
+Có đợt thi
+chuẩn đầu
+ra
+1   Tạo các khoản thu ngoài 
+học phí
+Đăng nhập phần mềm 
+thu học phí vào Danh 
+mục -> Tài chính -> 
+Khoản thu ngoài học phí
+-   Bước 1: Click 
+Thêm  mới
+-   Bước 2: Nhập chi 
+tiết các thông tin khoản 
+thu ngoài học phí như: 
+Mã  khoản thu, tên khoản 
+thu, số tiền, số thứ tự, 
+loại khoản thu. Tick vào 
+ô hiển thị.
+-   Bước 3. Click 
+Lưu
+Cứ  tuần tự như vậy tiếp 
+tục tạo các khoản thu 
+chuẩn đầu ra của từng kỹ 
+năng của từng nội dung 
+thi  : Tiếng anh VSTEP:  
+nghe, nói, đọc viết; 
+IELTS: Nghe, nói, đọc, 
+viết. Tiếng trung HSK2: 
+Nghe, đọc, nói, HSK4: 
+Nghe, Nói, Đọc, Viết; 
+Tiếng Nhật: Nghe, Từ 
+vựng, Ngữ Pháp; Tin: Lý 
+thuyết, Thực hành
+4
+----------------Page (3) Break----------------
+3 Lập kế hoạch thu
+chung bổ sung
+chuẩn đầu ra
+Phòng Tài chính - 
+Kế toán
+Kế toán
+doanh
+thu
+Khi tổ
+chức thi
+chuẩn đầu
+ra
+1   Vào phần mềm ASC→  
+Tài chính → Kế hoạch 
+thu → Kế hoạch thu 
+chung bổ sung
+Thêm  kế hoạch thu 
+chung cho từng kỹ năng 
+chuẩn đầu ra:
+Click nút “Thêm mới” -> 
+Chọn chi tiết các thông 
+tin cần tạo kế hoạch thu 
+chung bổ sung như: năm 
+học, khóa học, loại đào 
+tạo, khoản thu, cơ sở, bậc
+đào tạo, ngành.
+- Khoản thu và số tiền tự 
+động lấy từ màn hình 
+Danh mục khoản thu 
+ngoài học phí vừa tạo ở 
+trên.
+- Tick chọn vào ô “Bắt 
+buộc” nếu khoản thu đó 
+bắt buộc sinh viên phải 
+đóng và để hiển thị trên 
+app ngân hàng cho sinh 
+viên gạch nợ.
+- Click “Lưu”.
+Cứ  tiếp tục các bước 
+tương tự để tạo khoản 
+thu cho các kỹ năng của 
+các ngành, các khóa 
+đăng ký thi lại chuẩn đầu 
+ra.
+5
+----------------Page (4) Break----------------
+4 Thu tiền mặt, cập
+nhật sinh viên
+chuyển khoản
+nộp lệ phí vào
+phần mềm
+Phòng Tài chính - 
+Kế toán
+Kế toán
+viên
+Khi sinh
+viên nộp
+tiền
+1   Thu tiền mặt thi chuẩn 
+đầu ra khi sinh viên đến 
+phòng kế toán nộp tiền.
+  Mỗi ngày, truy cập tài 
+khoản các ngân hàng để 
+kiểm tra các giao dịch 
+nộp lệ phí thi chuẩn đầu 
+ra. Đối chiếu tên, MSSV, 
+nội dung để cập nhật vào 
+phần mềm thu học phí – 
+lệ phí ASC.
+  Gọi điện xác minh nếu 
+phát hiện sinh viên nộp 
+sai cú pháp, thiếu thông 
+tin không xuất được hóa 
+đơn thu tiền.
+6
+----------------Page (5) Break----------------
+5 Tổng hợp danh
+sách đã nộp lệ
+phí
+Phòng Tài chính - 
+Kế toán
+Kế toán
+doanh
+thu
+Phòng Khảo 
+thí và Đảm 
+bảo Chất 
+lượng
+Hết hạn
+nộp tiền
+thi chuẩn
+đầu ra
+1   Sau thời hạn nộp tiền 
+như đã thông báo, ngừng 
+thu tiền mặt, nhập dữ 
+liệu nộp qua ngân hàng 
+vào phần mềm ASC.
+Thống kê, tổng hợp danh 
+sách sinh viên đã nộp 
+tiền lệ phí thi chuẩn đầu 
+ra.
+ Gửi danh sách này đến 
+phòng Khảo thí & đảm 
+bảo chất lượng để làm 
+căn cứ xếp lịch thi đăng 
+lên trang sinh viên để 
+sinh viên được biết. Nếu 
+có sai sót, nhầm lẫn về 
+việc đăng ký các kỹ năng 
+thi sinh viên sẽ có thời 
+gian liên hệ điều chỉnh, 
+bổ sung kịp thời.
+6 Lưu trữ hồ sơ
+Phòng Tài chính - 
+Kế toán
+Kế toán
+doanh
+thu
+Kết thúc
+đợt thi
+chuẩn đầu
+ra
+1   Lưu trữ các dữ liệu nộp 
+tiền trong phần mềm 
+ASC, hóa đơn nộp tiền, 
+chứng từ ngân hàng cả 
+bản cứng, bản mềm ở các
+phần mềm,  file excel 
+tổng hợp danh sách nộp 
+tiền thi chuẩn đầu ra.
+7
+----------------Page (6) Break----------------
+4. HỒ SƠ
+Thứ
+tự
+Tên hồ sơ lưu    Mã hiệu    Nơi lưu
+Thời gian
+lưu
+1 Cách vào màng hình tạo khoản
+thu ngoài học phí
+QT.TCKT.15-
+1
+Phòng Tài
+Chính - Kế
+Toán
+10 năm
+2 Màng hình tạo mới khoản thu
+ngoài học phí
+QT.TCKT .15
+- 2
+Phòng Tài
+Chính - Kế
+Toán
+10 năm
+3 Cách vào màng hình thu chung
+bổ sung
+QT.TCKT.15-
+3
+Phòng Tài
+Chính - Kế
+Toán
+10 năm
+4 Màng hình lập kế hoạch thu
+chuẩn đầu ra
+QT.TCKT .15
+- 4
+Phòng Tài
+Chính - Kế
+Toán
+10 năm
+5 Màng hình Báo cáo tổng hợp
+thu học phí - lệ phí để tổng hợp
+danh sách thi chuẩn đầu ra
+QT.TCKT.15
+- 5
+Phòng Tài
+Chính - Kế
+Toán
+10 năm
+8
+----------------Page (7) Break----------------
