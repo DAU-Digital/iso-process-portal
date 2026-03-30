@@ -85,6 +85,59 @@ export interface ResolvedDoc {
   category: 'reference' | 'document' | 'form';
 }
 
+// --- Process Schema & Map Types ---
+import { Node as ReactFlowNode, Edge as ReactFlowEdge } from '@xyflow/react';
+
+export interface ProcessSchemaGroup {
+  id: string;
+  label: string;
+  x: number;
+  y: number;
+  width: number;
+  height: number;
+}
+
+export interface ProcessSchemaDetails {
+  description?: string;
+  actor?: string;
+  form?: string;
+}
+
+export interface ProcessSchemaProcess {
+  id: string;
+  title: string;
+  steps: string[];
+  step_details: ProcessSchemaDetails[];
+  reference?: string;
+  forms?: string[];
+  documents?: string[];
+  status?: GroupStatus;
+}
+
+export interface ProcessSchemaMapItem {
+  group: ProcessSchemaGroup;
+  processes: ProcessSchemaProcess[];
+}
+
+export type ProcessNodeData = {
+  label: string;
+  description?: string;
+  actor?: string;
+  status?: string;
+  _processId?: string;
+  _stepIndex?: number;
+  _stepText?: string;
+  _isTaskNode?: boolean;
+  reference?: string;
+  forms?: string[] | string;
+  documents?: string[] | string;
+  stepForm?: string;
+  [key: string]: unknown;
+};
+
+export type ProcessNode = ReactFlowNode<ProcessNodeData>;
+export type ProcessEdge = ReactFlowEdge;
+
 // --- Available Modules ---
 export const AVAILABLE_MODULES = [
   { id: 'iam', name: 'Định danh tập trung (IAM/SSO)' },

@@ -9,6 +9,10 @@ import {
   docMap,
   themes,
   groupStatusColors,
+  ProcessNode,
+  ProcessEdge,
+  ProcessSchemaMapItem,
+  ProcessSchemaProcess
 } from './types';
 
 // --- Resolve Document URL ---
@@ -19,7 +23,7 @@ export function resolveDocUrl(filename: string): { url: string; type: 'pdf' | 'i
 }
 
 // --- Get All Documents for a Node ---
-export function getNodeDocuments(node: any): ResolvedDoc[] {
+export function getNodeDocuments(node: ProcessNode): ResolvedDoc[] {
   const docs: ResolvedDoc[] = [];
   
   // Reference (main process PDF)
@@ -54,7 +58,7 @@ export function getNodeDocuments(node: any): ResolvedDoc[] {
 }
 
 // --- Get Process Status from Schema ---
-export function getProcessStatus(schema: any[], processId: string): GroupStatus | null {
+export function getProcessStatus(schema: ProcessSchemaMapItem[], processId: string): GroupStatus | null {
   for (const group of schema) {
     for (const proc of group.processes) {
       if (proc.id === processId) return (proc.status as GroupStatus) || 'not_started';
@@ -64,7 +68,7 @@ export function getProcessStatus(schema: any[], processId: string): GroupStatus 
 }
 
 // --- Generate ReactFlow Network from Schema ---
-export function generateNetwork(mapSchema: any[], isDark: boolean) {
+export function generateNetwork(mapSchema: ProcessSchemaMapItem[], isDark: boolean) {
   const t = isDark ? themes.dark : themes.light;
   const defaultStyle = {
     background: t.nodeBg,
@@ -77,8 +81,8 @@ export function generateNetwork(mapSchema: any[], isDark: boolean) {
     width: 260,
   };
 
-  const nodes: Node[] = [];
-  const edges: Edge[] = [];
+  const nodes: ProcessNode[] = [];
+  const edges: ProcessEdge[] = [];
 
   // Layout constants
   const COLUMN_SPACING = 330;
@@ -90,9 +94,9 @@ export function generateNetwork(mapSchema: any[], isDark: boolean) {
   const PROC_TITLE_HEIGHT = 50;
 
   // ——— STEP 1: Flatten all processes from all groups ———
-  const allProcesses: any[] = [];
+  const allProcesses: ProcessSchemaProcess[] = [];
   mapSchema.forEach(def => {
-    def.processes.forEach((proc: any) => {
+    def.processes.forEach((proc: ProcessSchemaProcess) => {
       allProcesses.push(proc);
     });
   });
@@ -145,7 +149,7 @@ export function generateNetwork(mapSchema: any[], isDark: boolean) {
     type: 'group',
     selectable: false,
     draggable: false,
-  });
+  } as ProcessNode);
 
   // ——— STEP 5: Place each process and its steps inside the unified container ———
   let gridRowY = PADDING_Y + 30; // offset for the group title
@@ -180,7 +184,7 @@ export function generateNetwork(mapSchema: any[], isDark: boolean) {
           boxShadow: 'none',
           letterSpacing: '0.03em',
         },
-      });
+      } as ProcessNode);
 
       // Steps within this process
       proc.steps.forEach((step: string, stepIndex: number) => {
@@ -203,9 +207,9 @@ export function generateNetwork(mapSchema: any[], isDark: boolean) {
               || (isStart ? 'Người khởi tạo' : 'Người duyệt (Đang bóc tách)'),
             stepForm: proc.step_details?.[stepIndex]?.form || null,
             status: isStart ? 'Bắt đầu' : (isEnd ? 'Kết thúc' : 'Thực thi'),
-            reference: (proc as any).reference,
-            forms: (proc as any).forms,
-            documents: (proc as any).documents,
+            reference: proc.reference,
+            forms: proc.forms,
+            documents: proc.documents,
             _processId: proc.id,
             _stepIndex: stepIndex,
             _stepText: step,
@@ -223,18 +227,18 @@ export function generateNetwork(mapSchema: any[], isDark: boolean) {
             fontWeight: isStart ? 'bold' : 'normal',
             color: isStart ? t.startText : t.textColor,
           }
-        });
+        } as ProcessNode);
 
         if (stepIndex > 0) {
           const prevId = `n-${proc.id}-${stepIndex - 1}`;
           edges.push({
-            id: `edge-${prevId}-${nodeId}`,
+            id: `e-${prevId}-${nodeId}`,
             source: prevId,
             target: nodeId,
             animated: true,
             markerEnd: { type: MarkerType.ArrowClosed, color: t.edgeColor },
             style: { stroke: t.edgeColor, strokeWidth: 1.5 }
-          });
+          } as ProcessEdge);
         }
       });
     });

@@ -27,6 +27,7 @@ export async function POST(request: Request) {
     
     // Nếu sai mật khẩu
     return NextResponse.json({ success: false, message: 'Mật khẩu truy cập không đúng' }, { status: 401 });
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   } catch (error) {
     return NextResponse.json({ success: false, message: 'Lỗi hệ thống' }, { status: 500 });
   }

@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-require-imports, @typescript-eslint/no-unused-vars */
 /**
  * Script to upload ISO documents to Supabase Storage
  * Uses hash-based storage paths to avoid Unicode issues

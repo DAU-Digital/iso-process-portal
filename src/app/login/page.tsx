@@ -36,6 +36,7 @@ export default function LoginPage() {
         setError(data.message || "Mật khẩu không hợp lệ");
         setIsLoading(false);
       }
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     } catch (err) {
       setError("Mất kết nối với máy chủ, hãy thử lại");
       setIsLoading(false);

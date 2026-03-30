@@ -13,12 +13,13 @@ import {
   BackgroundVariant,
   Node,
   Edge,
+  Connection,
 } from '@xyflow/react';
 import '@xyflow/react/dist/style.css';
 import { useTheme } from "next-themes";
 
 // --- Extracted Modules ---
-import { GroupStatus, themes } from './process-map/types';
+import { GroupStatus, themes, ProcessNode, ProcessEdge, ProcessSchemaMapItem, ProcessSchemaProcess } from './process-map/types';
 import { generateNetwork, getProcessStatus } from './process-map/helpers';
 import { InfoPanel } from './process-map/InfoPanel';
 import { EditToolbar } from './process-map/EditToolbar';
@@ -36,9 +37,9 @@ import {
 // MAIN COMPONENT
 // ============================================================
 export default function ProcessMap() {
-  const [nodes, setNodes, onNodesChange] = useNodesState<Node>([]);
-  const [edges, setEdges, onEdgesChange] = useEdgesState<Edge>([]);
-  const [selectedNode, setSelectedNode] = useState<any>(null);
+  const [nodes, setNodes, onNodesChange] = useNodesState<ProcessNode>([]);
+  const [edges, setEdges, onEdgesChange] = useEdgesState<ProcessEdge>([]);
+  const [selectedNode, setSelectedNode] = useState<ProcessNode | null>(null);
   const [sheetOpen, setSheetOpen] = useState(false);
   const [isPanelExpanded, setIsPanelExpanded] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
@@ -68,11 +69,11 @@ export default function ProcessMap() {
 
   // --- Delete Confirm Dialog ---
   const [deleteDialogOpen, setDeleteDialogOpen] = useState(false);
-  const [nodeToDelete, setNodeToDelete] = useState<any>(null);
+  const [nodeToDelete, setNodeToDelete] = useState<ProcessNode | null>(null);
 
   // --- Edge Delete Dialog ---
   const [deleteEdgeDialogOpen, setDeleteEdgeDialogOpen] = useState(false);
-  const [edgeToDelete, setEdgeToDelete] = useState<any>(null);
+  const [edgeToDelete, setEdgeToDelete] = useState<ProcessEdge | null>(null);
 
   // --- Connect Edge Mode ---
   const [connectMode, setConnectMode] = useState(false);
@@ -90,7 +91,7 @@ export default function ProcessMap() {
   const [isSaving, setIsSaving] = useState(false);
 
   // Track raw schema for reference
-  const schemaRef = useRef<any[]>([]);
+  const schemaRef = useRef<ProcessSchemaMapItem[]>([]);
   const edgesInitializedRef = useRef(false);
 
   // ---- LOAD DATA ----
@@ -104,8 +105,10 @@ export default function ProcessMap() {
         if (error) throw error;
         
         if (groups && groups.length > 0) {
-          const formattedSchema = groups.map((g: any) => ({
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          const formattedSchema: ProcessSchemaMapItem[] = groups.map((g: any) => ({
              group: { id: g.id, label: g.label, x: g.x, y: g.y, width: g.width, height: g.height },
+             // eslint-disable-next-line @typescript-eslint/no-explicit-any
              processes: g.processes.map((p: any) => ({
                  id: p.id,
                  title: p.title,
@@ -114,11 +117,11 @@ export default function ProcessMap() {
                  reference: p.reference,
                  forms: p.forms,
                  documents: p.documents,
-                 status: p.status || 'not_started',
-             })).sort((a: any, b: any) => {
+                 status: (p.status || 'not_started') as GroupStatus,
+             })).sort((a: ProcessSchemaProcess, b: ProcessSchemaProcess) => {
                  return a.id.localeCompare(b.id, undefined, { numeric: true, sensitivity: 'base' })
              })
-          })).sort((a: any, b: any) => a.group.x - b.group.x || a.group.y - b.group.y);
+          })).sort((a: ProcessSchemaMapItem, b: ProcessSchemaMapItem) => a.group.x - b.group.x || a.group.y - b.group.y);
           
           schemaRef.current = formattedSchema;
           const { initialNodes, initialEdges } = generateNetwork(formattedSchema, isDark);
@@ -129,6 +132,7 @@ export default function ProcessMap() {
             .select('*');
 
           if (savedPositions && savedPositions.length > 0) {
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
             const posMap = new Map(savedPositions.map((p: any) => [p.node_id, { x: p.x, y: p.y }]));
             initialNodes.forEach((node) => {
               const saved = posMap.get(node.id) as { x: number; y: number } | undefined;
@@ -146,7 +150,8 @@ export default function ProcessMap() {
             .select('*');
 
           if (savedEdges && savedEdges.length > 0) {
-            const restoredEdges = savedEdges.map((e: any) => ({
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
+            const restoredEdges: ProcessEdge[] = savedEdges.map((e: any) => ({
               id: e.id,
               source: e.source,
               target: e.target,
@@ -191,9 +196,9 @@ export default function ProcessMap() {
       
       if (error) throw error;
 
-      schemaRef.current = schemaRef.current.map((group: any) => ({
+      schemaRef.current = schemaRef.current.map((group: ProcessSchemaMapItem) => ({
         ...group,
-        processes: group.processes.map((p: any) =>
+        processes: group.processes.map((p: ProcessSchemaProcess) =>
           p.id === processId ? { ...p, status: newStatus } : p
         ),
       }));
@@ -247,16 +252,16 @@ export default function ProcessMap() {
   }, [statusFilter, setNodes, setEdges]);
 
   // ---- CONNECT EDGES (save to Supabase) ----
-  const onConnect = useCallback(async (params: any) => {
+  const onConnect = useCallback(async (params: Connection) => {
     const edgeColor = isDark ? themes.dark.edgeColor : themes.light.edgeColor;
-    const newEdge = {
+    const newEdge: ProcessEdge = {
       ...params,
-      id: `edge-${params.source}-${params.target}`,
+      id: `e-${params.source}-${params.target}`,
       animated: true,
       markerEnd: { type: MarkerType.ArrowClosed, color: edgeColor },
-      style: { stroke: edgeColor, strokeWidth: 1.5 }
-    };
-    setEdges((eds) => addEdge(newEdge, eds));
+      style: { stroke: edgeColor, strokeWidth: 2 }
+    } as ProcessEdge;
+    setEdges((eds) => addEdge(newEdge, eds) as ProcessEdge[]);
     await supabase.from('map_edges').upsert({
       id: newEdge.id,
       source: params.source,
@@ -266,7 +271,7 @@ export default function ProcessMap() {
   }, [setEdges, isDark]);
 
   // ---- SAVE NODE POSITION on drag end ----
-  const onNodeDragStop = useCallback(async (_event: React.MouseEvent, node: any) => {
+  const onNodeDragStop = useCallback(async (_event: React.MouseEvent, node: ProcessNode) => {
     setIsSaving(true);
     try {
       await supabase.from('node_positions').upsert({
@@ -283,7 +288,7 @@ export default function ProcessMap() {
   }, []);
 
   // Show a loading screen until mounted to avoid hydration mismatch
-  if (!mounted) {
+  if (!mounted || isLoading) {
     return (
       <div className="w-full h-full overflow-hidden relative bg-background flex items-center justify-center">
         <div className="animate-pulse text-muted-foreground text-sm">Đang tải bản đồ quy trình...</div>
@@ -292,14 +297,14 @@ export default function ProcessMap() {
   }
 
   // ---- NODE CLICK ----
-  const onNodeClick = (_event: React.MouseEvent, node: any) => {
+  const onNodeClick = (_event: React.MouseEvent, node: ProcessNode) => {
     if (node.type === 'group') return;
     setSelectedNode(node);
     setSheetOpen(true);
   };
 
   // ---- EDGE CLICK (for delete in edit mode) ----
-  const onEdgeClick = (_event: React.MouseEvent, edge: any) => {
+  const onEdgeClick = (_event: React.MouseEvent, edge: ProcessEdge) => {
     if (!editMode) return;
     setEdgeToDelete(edge);
     setDeleteEdgeDialogOpen(true);
@@ -347,11 +352,12 @@ export default function ProcessMap() {
 
   const handleAddNode = async () => {
     const newId = `custom-node-${Date.now()}`;
-    const newNode: Node = {
+    const newNode: ProcessNode = {
       id: newId,
+      type: 'default',
       position: { x: Math.random() * 800 + 100, y: Math.random() * 400 + 100 },
       data: {
-        label: addForm.label || 'Node mới',
+        label: addForm.label || 'Node Mới',
         description: addForm.description || '',
         actor: addForm.actor || '',
         status: 'Tùy chỉnh',
@@ -369,7 +375,7 @@ export default function ProcessMap() {
         fontWeight: 'bold',
       },
     };
-    setNodes((nds) => [...nds, newNode]);
+    setNodes((nds) => [...nds, newNode] as ProcessNode[]);
     setAddDialogOpen(false);
     await supabase.from('node_positions').upsert({
       node_id: newId,

@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import Lightbox, { Slide } from "yet-another-react-lightbox";
 import Zoom from "yet-another-react-lightbox/plugins/zoom";
 import Fullscreen from "yet-another-react-lightbox/plugins/fullscreen";
@@ -37,29 +37,29 @@ import {
   FolderOpen,
 } from "lucide-react";
 
-import { GroupStatus, ResolvedDoc, groupStatusConfig, groupStatusColors } from './types';
+import { GroupStatus, ResolvedDoc, groupStatusConfig, groupStatusColors, ProcessNode, ProcessSchemaMapItem } from './types';
 import { getNodeDocuments, getProcessStatus } from './helpers';
 
 // --- Custom slide type for PDF ---
-interface PdfSlide extends Slide {
+interface PdfSlide {
   type: "pdf";
   src: string;
   title?: string;
   description?: string;
 }
 
-function isPdfSlide(slide: Slide): slide is PdfSlide {
-  return (slide as any).type === "pdf";
+function isPdfSlide(slide: Slide | PdfSlide): slide is PdfSlide {
+  return (slide as PdfSlide).type === "pdf";
 }
 
 interface NodeDetailSheetProps {
   open: boolean;
   onOpenChange: (open: boolean) => void;
-  selectedNode: any;
+  selectedNode: ProcessNode | null;
   isDark: boolean;
   editMode: boolean;
   isUpdatingStatus: boolean;
-  schemaRef: React.MutableRefObject<any[]>;
+  schemaRef: React.MutableRefObject<ProcessSchemaMapItem[]>;
   onEditNode: () => void;
   onDeleteNode: () => void;
   onUpdateProcessStatus: (processId: string, newStatus: GroupStatus) => void;
@@ -99,6 +99,7 @@ function DocCard({ doc, onClick }: { doc: ResolvedDoc; onClick: () => void }) {
               <ImageIcon className="w-6 h-6 text-muted-foreground/30" />
             </div>
           )}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={doc.url}
             alt={doc.name}
@@ -149,6 +150,15 @@ export function NodeDetailSheet({
   const [lightboxOpen, setLightboxOpen] = useState(false);
   const [lightboxIndex, setLightboxIndex] = useState(0);
 
+  const [currentProcStatus, setCurrentProcStatus] = useState<GroupStatus>('not_started');
+
+  useEffect(() => {
+    if (selectedNode?.data?._processId) {
+      const s = getProcessStatus(schemaRef.current, selectedNode.data._processId);
+      if (s) setCurrentProcStatus(s);
+    }
+  }, [selectedNode, isUpdatingStatus, schemaRef]);
+
   // Compute all documents
   const allDocs = useMemo(() => {
     if (!selectedNode) return [];
@@ -162,11 +172,11 @@ export function NodeDetailSheet({
 
       if (doc.type === 'pdf') {
         return {
-          type: "pdf" as const,
+          type: "pdf",
           src: doc.url,
           title: doc.name,
           description: `📄 ${categoryLabel}`,
-        };
+        } as unknown as Slide;
       }
       return {
         src: doc.url,
@@ -191,7 +201,8 @@ export function NodeDetailSheet({
   };
 
   // Custom render for PDF slides inside lightbox
-  const renderSlide = ({ slide }: { slide: Slide }) => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const renderSlide = ({ slide }: { slide: any }) => {
     if (isPdfSlide(slide)) {
       return (
         <div style={{
@@ -271,7 +282,8 @@ export function NodeDetailSheet({
   };
 
   // Custom thumbnail render for PDFs
-  const renderThumbnail = ({ slide }: { slide: Slide }) => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const renderThumbnail = ({ slide }: { slide: any }) => {
     if (isPdfSlide(slide)) {
       return (
         <div style={{
@@ -355,12 +367,11 @@ export function NodeDetailSheet({
                           Trạng thái quy trình
                         </h4>
                         {(() => {
-                          const currentProcStatus = getProcessStatus(schemaRef.current, selectedNode.data._processId) || 'not_started';
                           const currentSc = (isDark ? groupStatusColors.dark : groupStatusColors.light)[currentProcStatus];
                           return (
                             <Select
                               value={currentProcStatus}
-                              onValueChange={(val) => onUpdateProcessStatus(selectedNode.data._processId, val as GroupStatus)}
+                              onValueChange={(val) => onUpdateProcessStatus(selectedNode.data._processId as string, val as GroupStatus)}
                               disabled={isUpdatingStatus}
                             >
                               <SelectTrigger className="w-full h-10 rounded-xl px-3" style={{ borderColor: currentSc.border, borderWidth: '2px' }}>

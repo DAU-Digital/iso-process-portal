@@ -17,6 +17,7 @@ import {
   Plus, Pencil, Trash2,
   Save, X, Unlink, LogOut,
 } from "lucide-react";
+import { ProcessNode, ProcessEdge } from "./types";
 
 // ===== Edit Node Dialog =====
 interface EditNodeDialogProps {
@@ -150,7 +151,7 @@ export function AddNodeDialog({ open, onOpenChange, addForm, setAddForm, onAdd }
 interface DeleteNodeDialogProps {
   open: boolean;
   onOpenChange: (open: boolean) => void;
-  nodeToDelete: any;
+  nodeToDelete: ProcessNode | null;
   onConfirm: () => void;
 }
 
@@ -184,7 +185,7 @@ export function DeleteNodeDialog({ open, onOpenChange, nodeToDelete, onConfirm }
 interface DeleteEdgeDialogProps {
   open: boolean;
   onOpenChange: (open: boolean) => void;
-  edgeToDelete: any;
+  edgeToDelete: ProcessEdge | null;
   onConfirm: () => void;
 }
 
