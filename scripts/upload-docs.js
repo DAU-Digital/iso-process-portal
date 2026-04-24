@@ -16,7 +16,7 @@ const BASE_URL = `${SUPABASE_URL}/storage/v1/object/public/${BUCKET}`;
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
-const ROOT_DIR = path.resolve(__dirname, '../../');
+const ROOT_DIR = path.resolve(__dirname, '../../../');
 const ALLOWED_EXTENSIONS = ['.pdf', '.png', '.jpg', '.jpeg', '.webp', '.gif'];
 
 function makeStoragePath(relativePath) {
@@ -47,7 +47,7 @@ function collectFiles(dir, basePath = '') {
     const relativePath = basePath ? `${basePath}/${item.name}` : item.name;
     
     if (item.isDirectory()) {
-      if (['iso-portal', 'node_modules', '.next', '.git'].includes(item.name)) continue;
+      if (['source-code', 'iso-portal', 'node_modules', '.next', '.git'].includes(item.name)) continue;
       results.push(...collectFiles(fullPath, relativePath));
     } else if (item.isFile()) {
       const ext = path.extname(item.name).toLowerCase();

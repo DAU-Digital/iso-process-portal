@@ -116,7 +116,7 @@ export function InfoPanel({
 
       {/* ===== MODULE SELECTOR DROPDOWN (NEXT TO INFO PANEL) ===== */}
       <div className="pointer-events-auto bg-popover/90 backdrop-blur-xl border border-border rounded-2xl shadow-2xl p-1.5 w-[300px] animate-in fade-in slide-in-from-left-4 duration-500">
-        <Select value={selectedModule} onValueChange={(val) => setSelectedModule(val || 'finance')}>
+        <Select value={selectedModule} onValueChange={(val) => setSelectedModule(val || AVAILABLE_MODULES[0].id)}>
           <SelectTrigger className="w-full bg-background/50 border-none shadow-none h-10 font-medium transition-all hover:bg-muted/80 focus:ring-0 rounded-xl px-4 text-sm">
             <SelectValue placeholder="Chọn phân hệ...">
               {AVAILABLE_MODULES.find(m => m.id === selectedModule)?.name || 'Chọn phân hệ...'}

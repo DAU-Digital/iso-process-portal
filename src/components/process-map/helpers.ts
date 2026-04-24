@@ -68,7 +68,7 @@ export function getProcessStatus(schema: ProcessSchemaMapItem[], processId: stri
 }
 
 // --- Generate ReactFlow Network from Schema ---
-export function generateNetwork(mapSchema: ProcessSchemaMapItem[], isDark: boolean) {
+export function generateNetwork(mapSchema: ProcessSchemaMapItem[], isDark: boolean, moduleName: string = 'Phòng Tài chính Kế toán') {
   const t = isDark ? themes.dark : themes.light;
   const defaultStyle = {
     background: t.nodeBg,
@@ -129,10 +129,10 @@ export function generateNetwork(mapSchema: ProcessSchemaMapItem[], isDark: boole
   totalHeight += PADDING_Y;
 
   // ——— STEP 4: Create a single unified group container ———
-  const UNIFIED_GROUP_ID = 'unified-finance';
+  const UNIFIED_GROUP_ID = 'unified-group';
   nodes.push({
     id: `group-${UNIFIED_GROUP_ID}`,
-    data: { label: 'Hệ thống Quy trình ISO — Phòng Tài chính Kế toán' },
+    data: { label: `Hệ thống Quy trình ISO — ${moduleName}` },
     position: { x: 0, y: 0 },
     className: 'light',
     style: {

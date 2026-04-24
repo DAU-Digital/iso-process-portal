@@ -19,7 +19,7 @@ import '@xyflow/react/dist/style.css';
 import { useTheme } from "next-themes";
 
 // --- Extracted Modules ---
-import { GroupStatus, themes, ProcessNode, ProcessEdge, ProcessSchemaMapItem, ProcessSchemaProcess } from './process-map/types';
+import { GroupStatus, themes, ProcessNode, ProcessEdge, ProcessSchemaMapItem, ProcessSchemaProcess, AVAILABLE_MODULES } from './process-map/types';
 import { generateNetwork, getProcessStatus } from './process-map/helpers';
 import { InfoPanel } from './process-map/InfoPanel';
 import { EditToolbar } from './process-map/EditToolbar';
@@ -43,7 +43,7 @@ export default function ProcessMap() {
   const [sheetOpen, setSheetOpen] = useState(false);
   const [isPanelExpanded, setIsPanelExpanded] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
-  const [selectedModule, setSelectedModule] = useState('finance');
+  const [selectedModule, setSelectedModule] = useState(AVAILABLE_MODULES[0].id);
 
   // --- Theme (with mounted guard to prevent hydration mismatch) ---
   const [mounted, setMounted] = useState(false);
@@ -126,7 +126,8 @@ export default function ProcessMap() {
           })).sort((a: ProcessSchemaMapItem, b: ProcessSchemaMapItem) => a.group.x - b.group.x || a.group.y - b.group.y);
           
           schemaRef.current = formattedSchema;
-          const { initialNodes, initialEdges } = generateNetwork(formattedSchema, isDark);
+          const selectedModuleName = AVAILABLE_MODULES.find(m => m.id === selectedModule)?.name || selectedModule;
+          const { initialNodes, initialEdges } = generateNetwork(formattedSchema, isDark, selectedModuleName);
 
           // ---- Load saved node positions from Supabase ----
           const { data: savedPositions } = await supabase
@@ -209,7 +210,8 @@ export default function ProcessMap() {
         ),
       }));
 
-      const { initialNodes, initialEdges } = generateNetwork(schemaRef.current, isDark);
+      const selectedModuleName = AVAILABLE_MODULES.find(m => m.id === selectedModule)?.name || selectedModule;
+      const { initialNodes, initialEdges } = generateNetwork(schemaRef.current, isDark, selectedModuleName);
       setNodes(initialNodes);
       setEdges(initialEdges);
     } catch (err) {

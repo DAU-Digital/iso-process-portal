@@ -1,740 +1,2222 @@
 {
+  "QT_XAY DUNG VA QUAN LY NGAN HANG CAU HOI THI.pdf": {
+    "storagePath": "docs/41f871/41f8712494d6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/41f871/41f8712494d6.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/1. XAY DUNG VA QUAN LY NGAN HANG CAU HOI THI/QT_XAY DUNG VA QUAN LY NGAN HANG CAU HOI THI.pdf"
+  },
+  "Quy định về việc xây dựng, quản lý và sử dụng ngân hàng câu hỏi thi kết thúc học phần của Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/1d565d/1d565d9e3255.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1d565d/1d565d9e3255.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/1. XAY DUNG VA QUAN LY NGAN HANG CAU HOI THI/Van ban/Quy định về việc xây dựng, quản lý và sử dụng ngân hàng câu hỏi thi kết thúc học phần của Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "QT - NGAN HANG DE THI.pdf": {
+    "storagePath": "docs/4d4119/4d4119c60e65.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4d4119/4d4119c60e65.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/1. XAY DUNG VA QUAN LY NGAN HANG CAU HOI THI/XAY DUNG NGAN HANG DE THI/QT - NGAN HANG DE THI.pdf"
+  },
+  "QT_ TO CHUC, HUONG DAN TU DANH GIA VA CHUAN BI DANH GIA NGOAI CO SƠ GIAO DỤC.pdf": {
+    "storagePath": "docs/c9a3c1/c9a3c139b1e3.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c9a3c1/c9a3c139b1e3.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/10. TO CHUC, HUONG DAN TU DANH GIA CO SO GIAO DUC/QT_ TO CHUC, HUONG DAN TU DANH GIA VA CHUAN BI DANH GIA NGOAI CO SƠ GIAO DỤC.pdf"
+  },
+  "Công văn số 1668-QLCL-KĐCLGD của Cục Quản lý chất lượng - Bộ Giáo dục và Đào tạo.pdf": {
+    "storagePath": "docs/294ae5/294ae54396f4.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/294ae5/294ae54396f4.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/10. TO CHUC, HUONG DAN TU DANH GIA CO SO GIAO DUC/Van ban/Công văn số 1668-QLCL-KĐCLGD của Cục Quản lý chất lượng - Bộ Giáo dục và Đào tạo.pdf"
+  },
+  "Công văn số 766 QLCL-KĐCLGD , Hướng dẫn tự đánh giá cơ sở giáo dục đại học.pdf": {
+    "storagePath": "docs/2bdfc8/2bdfc8c2e68c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2bdfc8/2bdfc8c2e68c.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/10. TO CHUC, HUONG DAN TU DANH GIA CO SO GIAO DUC/Van ban/Công văn số 766 QLCL-KĐCLGD , Hướng dẫn tự đánh giá cơ sở giáo dục đại học.pdf"
+  },
+  "Công văn số 767 QLCL-KĐCLGD , Hướng dẫn đánh giá ngoài cơ sở giáo dục đại học.pdf": {
+    "storagePath": "docs/ab9b90/ab9b9060368e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ab9b90/ab9b9060368e.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/10. TO CHUC, HUONG DAN TU DANH GIA CO SO GIAO DUC/Van ban/Công văn số 767 QLCL-KĐCLGD , Hướng dẫn đánh giá ngoài cơ sở giáo dục đại học.pdf"
+  },
+  "Công văn số 768 QLCL-KĐCLGD , Hướng dẫn theo bộ tiêu chuẩn đánh giá chất lượng cơ sở giáo dục đại học.pdf": {
+    "storagePath": "docs/4a72e0/4a72e0775b72.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4a72e0/4a72e0775b72.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/10. TO CHUC, HUONG DAN TU DANH GIA CO SO GIAO DUC/Van ban/Công văn số 768 QLCL-KĐCLGD , Hướng dẫn theo bộ tiêu chuẩn đánh giá chất lượng cơ sở giáo dục đại học.pdf"
+  },
+  "Thông tư 04-2016-TT-BGDĐT  ban hành quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo trình độ của đại học giáo dục.pdf": {
+    "storagePath": "docs/881859/8818591b7f9b.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/881859/8818591b7f9b.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/10. TO CHUC, HUONG DAN TU DANH GIA CO SO GIAO DUC/Van ban/Thông tư 04-2016-TT-BGDĐT  ban hành quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo trình độ của đại học giáo dục.pdf"
+  },
+  "Thông tư số 12-2017-TT-BGDĐTban hành quy định về kiểm định chất lượng giáo dục đại học.pdf": {
+    "storagePath": "docs/916376/916376709091.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/916376/916376709091.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/10. TO CHUC, HUONG DAN TU DANH GIA CO SO GIAO DUC/Van ban/Thông tư số 12-2017-TT-BGDĐTban hành quy định về kiểm định chất lượng giáo dục đại học.pdf"
+  },
+  "QT_ TO CHUC, HUONG DAN TU DANH GIA VÀ CHUAN BI DANH GIA NGOA CTDT.pdf": {
+    "storagePath": "docs/02bf4b/02bf4b75e7bd.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/02bf4b/02bf4b75e7bd.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/11. TO CHUC, HUONG DAN TU DANH GIA CTDT/QT_ TO CHUC, HUONG DAN TU DANH GIA VÀ CHUAN BI DANH GIA NGOA CTDT.pdf"
+  },
+  "Công văn số 1668-QLCL-KĐCLGD  Bảng hướng dẫn đánh giá CTĐT.pdf": {
+    "storagePath": "docs/3a7153/3a71535c8b0d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3a7153/3a71535c8b0d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/11. TO CHUC, HUONG DAN TU DANH GIA CTDT/Van ban/Công văn số 1668-QLCL-KĐCLGD  Bảng hướng dẫn đánh giá CTĐT.pdf"
+  },
+  "Công văn số 1668QLCL-KĐCLGDcủa Cục Quản lý chất lượng - Bộ Giáo dục và Đào tạo.pdf": {
+    "storagePath": "docs/7f3b9c/7f3b9cc502eb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7f3b9c/7f3b9cc502eb.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/11. TO CHUC, HUONG DAN TU DANH GIA CTDT/Van ban/Công văn số 1668QLCL-KĐCLGDcủa Cục Quản lý chất lượng - Bộ Giáo dục và Đào tạo.pdf"
+  },
+  "Công văn số 769 QLCL-KĐCLGD, Hướng dẫn theo bộ tiêu chuẩn đánh giá chất lượng chương trình đào tạo.pdf": {
+    "storagePath": "docs/b96001/b96001d4e9fa.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b96001/b96001d4e9fa.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/11. TO CHUC, HUONG DAN TU DANH GIA CTDT/Van ban/Công văn số 769 QLCL-KĐCLGD, Hướng dẫn theo bộ tiêu chuẩn đánh giá chất lượng chương trình đào tạo.pdf"
+  },
+  "Thông tư số 04-2016-TT-BGDĐT ngày 14 tháng 3 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo.pdf": {
+    "storagePath": "docs/43c34b/43c34b21cbc6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/43c34b/43c34b21cbc6.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/11. TO CHUC, HUONG DAN TU DANH GIA CTDT/Van ban/Thông tư số 04-2016-TT-BGDĐT ngày 14 tháng 3 năm 2016 của Bộ trưởng Bộ Giáo dục và Đào tạo.pdf"
+  },
+  "Thông tư số 38-2013-TT-BGDĐT của Bộ Giáo dục và Đào tạo.pdf": {
+    "storagePath": "docs/db9226/db92269595f6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/db9226/db92269595f6.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/11. TO CHUC, HUONG DAN TU DANH GIA CTDT/Van ban/Thông tư số 38-2013-TT-BGDĐT của Bộ Giáo dục và Đào tạo.pdf"
+  },
+  "QT - PHUC KHAO.pdf": {
+    "storagePath": "docs/54c642/54c642a6eb4c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/54c642/54c642a6eb4c.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/2. PHUC KHAO BAI THI KET THUC HOC PHAN/QT - PHUC KHAO.pdf"
+  },
+  "Quy định sửa đổi bổ sung Quy định đánh giá kết quả học tập của sinh viên..pdf": {
+    "storagePath": "docs/0beedf/0beedf96bf58.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0beedf/0beedf96bf58.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/2. PHUC KHAO BAI THI KET THUC HOC PHAN/Van ban/Quy định sửa đổi bổ sung Quy định đánh giá kết quả học tập của sinh viên..pdf"
+  },
+  "Quy định đánh giá kết quả học tập của sinh viên..pdf": {
+    "storagePath": "docs/4c7e81/4c7e81b5b6a9.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4c7e81/4c7e81b5b6a9.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/4. QUY TRINH CHAM THI BAI THI TU LUAN CO ROC PHACH/Van ban/Quy định đánh giá kết quả học tập của sinh viên..pdf"
+  },
+  "QT- THI TRAC NGHIEM TREN MAY TINH.pdf": {
+    "storagePath": "docs/6ef4ef/6ef4efeef341.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6ef4ef/6ef4efeef341.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/3. TO CHUC THI TRAC NGHIEM TREN MAY TINH/QT- THI TRAC NGHIEM TREN MAY TINH.pdf"
+  },
+  "Quy định về Đánh giá kết quả học tập của sinh viên Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/eb60fd/eb60fdb148fe.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/eb60fd/eb60fdb148fe.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/3. TO CHUC THI TRAC NGHIEM TREN MAY TINH/Van ban/Quy định về Đánh giá kết quả học tập của sinh viên Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "QT- Cham bai thi tu luan co roc phach.pdf": {
+    "storagePath": "docs/bd0c9e/bd0c9eacc6f6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bd0c9e/bd0c9eacc6f6.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/4. QUY TRINH CHAM THI BAI THI TU LUAN CO ROC PHACH/QT- Cham bai thi tu luan co roc phach.pdf"
+  },
+  "Quy chế đào tạo.pdf": {
+    "storagePath": "docs/5f2ed6/5f2ed6a76264.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5f2ed6/5f2ed6a76264.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/4. QUY TRINH CHAM THI BAI THI TU LUAN CO ROC PHACH/Van ban/Quy chế đào tạo.pdf"
+  },
+  "QT _ THI KET THUC HOC PHAN.pdf": {
+    "storagePath": "docs/d92c2e/d92c2e75e91d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d92c2e/d92c2e75e91d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/5. QUY TRINH THI KET THUC HOC PHAN/QT _ THI KET THUC HOC PHAN.pdf"
+  },
+  "Quy trình thi kết thúc học phần.pdf": {
+    "storagePath": "docs/3057f3/3057f3d7abe1.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3057f3/3057f3d7abe1.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/5. QUY TRINH THI KET THUC HOC PHAN/Van ban/Quy trình thi kết thúc học phần.pdf"
+  },
+  "Quy định về đánh giá kết quả học tập của sv.pdf": {
+    "storagePath": "docs/3f093f/3f093f1f22c9.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3f093f/3f093f1f22c9.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/5. QUY TRINH THI KET THUC HOC PHAN/Van ban/Quy định về đánh giá kết quả học tập của sv.pdf"
+  },
+  "QT- CAP NHAT THONG TIN CONG KHAI THUONG XUYEN TREN CONG TTDT.pdf": {
+    "storagePath": "docs/97c652/97c652407a87.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/97c652/97c652407a87.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/6. QUY TRINH THUC HIEN QUY DINH VE VIEC CONG KHAI TRONG HOAT DONG CUA TRUONG/CAP NHAT THONG TIN CONG KHAI THUONG XUYEN TREN CONG TTDT/QT- CAP NHAT THONG TIN CONG KHAI THUONG XUYEN TREN CONG TTDT.pdf"
+  },
+  "QT- CONG KHAI THEO BAO CAO THUONG NIEN.pdf": {
+    "storagePath": "docs/485e67/485e671b99fc.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/485e67/485e671b99fc.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/6. QUY TRINH THUC HIEN QUY DINH VE VIEC CONG KHAI TRONG HOAT DONG CUA TRUONG/CONG KHAI THEO BAO CAO THUONG NIEN/QT- CONG KHAI THEO BAO CAO THUONG NIEN.pdf"
+  },
+  "Quy định về việc Công khai trong hoạt động của trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/47774b/47774b57b319.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/47774b/47774b57b319.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/6. QUY TRINH THUC HIEN QUY DINH VE VIEC CONG KHAI TRONG HOAT DONG CUA TRUONG/Van ban/Quy định về việc Công khai trong hoạt động của trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "QT - THUC HIEN QUY DINH VE CONG KHAI TRONG HOAT DONG CUA TRUONG DH.pdf": {
+    "storagePath": "docs/da47cf/da47cf10d134.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/da47cf/da47cf10d134.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/6. QUY TRINH THUC HIEN QUY DINH VE VIEC CONG KHAI TRONG HOAT DONG CUA TRUONG/QT - THUC HIEN QUY DINH VE CONG KHAI TRONG HOAT DONG CUA TRUONG DH.pdf"
+  },
+  "QT_ KHAO SAT THI DAU VAO.pdf": {
+    "storagePath": "docs/a57b65/a57b6548a9b2.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a57b65/a57b6548a9b2.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/7. THI KHAO SAT DAU VAO/QT_ KHAO SAT THI DAU VAO.pdf"
+  },
+  "Quy định xét miễn HP tiếng anh.pdf": {
+    "storagePath": "docs/23a6b2/23a6b276db0d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/23a6b2/23a6b276db0d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/7. THI KHAO SAT DAU VAO/Van ban/Quy định xét miễn HP tiếng anh.pdf"
+  },
+  "QT- KHAO SAT DAU RA.pdf": {
+    "storagePath": "docs/82c326/82c32614dc3e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/82c326/82c32614dc3e.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/8. THI KHAO SAT DAU RA/QT- KHAO SAT DAU RA.pdf"
+  },
+  "Thi khảo sát đầu ra.pdf": {
+    "storagePath": "docs/727ca9/727ca9195ee4.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/727ca9/727ca9195ee4.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/8. THI KHAO SAT DAU RA/Van ban/Thi khảo sát đầu ra.pdf"
+  },
+  "QT_ KHAO SAT CAC BEN LIEN QUAN DOI VOI HOAT DONG CUA TRUONG.pdf": {
+    "storagePath": "docs/6e450c/6e450c7f860f.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6e450c/6e450c7f860f.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/9. KHAO SAT CAC BEN LIEN QUAN DEN HOAT DONG CUA NHA TRUONG/QT_ KHAO SAT CAC BEN LIEN QUAN DOI VOI HOAT DONG CUA TRUONG.pdf"
+  },
+  "Quy chế tổ chức và hoạt động của Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/788c52/788c525e1c9a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/788c52/788c525e1c9a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/9. KHAO SAT CAC BEN LIEN QUAN DEN HOAT DONG CUA NHA TRUONG/Van ban/Quy chế tổ chức và hoạt động của Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "Quy định về công tác khảo sát, lấy ý kiến phản hồi từ các bên liên quan đối với hoạt động của Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/87bd43/87bd43e9a7c7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/87bd43/87bd43e9a7c7.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/9. KHAO SAT CAC BEN LIEN QUAN DEN HOAT DONG CUA NHA TRUONG/Van ban/Quy định về công tác khảo sát, lấy ý kiến phản hồi từ các bên liên quan đối với hoạt động của Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "Quyết định số 2702006QĐ-TTg ngày 27 tháng 11 năm 2006 của Thủ tướng Chính phủ về việc thành lập Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/c00261/c00261b5e27a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c00261/c00261b5e27a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/9. KHAO SAT CAC BEN LIEN QUAN DEN HOAT DONG CUA NHA TRUONG/Van ban/Quyết định số 2702006QĐ-TTg ngày 27 tháng 11 năm 2006 của Thủ tướng Chính phủ về việc thành lập Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "Thông tư số 01-2024- TT-BGDĐT ngày 05 tháng 02 năm 2024 của Bộ Giáo dục và Đào tạo ban hành Chuẩn cơ sở giáo dục đại học.pdf": {
+    "storagePath": "docs/9a1760/9a176060b302.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9a1760/9a176060b302.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/9. KHAO SAT CAC BEN LIEN QUAN DEN HOAT DONG CUA NHA TRUONG/Van ban/Thông tư số 01-2024- TT-BGDĐT ngày 05 tháng 02 năm 2024 của Bộ Giáo dục và Đào tạo ban hành Chuẩn cơ sở giáo dục đại học.pdf"
+  },
+  "Thông tư số 04-2016-TT-BGDĐT ngày 14 tháng 3 năm 2016 của Bộ Giáo dục và Đào tạo.pdf": {
+    "storagePath": "docs/80dd7f/80dd7f883c39.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/80dd7f/80dd7f883c39.pdf",
+    "type": "pdf",
+    "originalRelativePath": "KHAO THI/9. KHAO SAT CAC BEN LIEN QUAN DEN HOAT DONG CUA NHA TRUONG/Van ban/Thông tư số 04-2016-TT-BGDĐT ngày 14 tháng 3 năm 2016 của Bộ Giáo dục và Đào tạo.pdf"
+  },
+  "Hướng dẫn thao thác đề xuất và cấp biểu mẫu xác nhận sinh viên trực tuyến.pdf": {
+    "storagePath": "docs/038c1a/038c1a73e171.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/038c1a/038c1a73e171.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/Quy trình cấp Giấy xác nhận sinh viên/Bieu mau/Hướng dẫn thao thác đề xuất và cấp biểu mẫu xác nhận sinh viên trực tuyến.pdf"
+  },
+  "Quy trình cấp Giấy xác nhận sinh viên.pdf": {
+    "storagePath": "docs/aa69a4/aa69a4b9ecaf.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/aa69a4/aa69a4b9ecaf.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/Quy trình cấp Giấy xác nhận sinh viên/Van ban/Quy trình cấp Giấy xác nhận sinh viên.pdf"
+  },
+  "Nghị định số 1312021NĐ-TTg của Chính phủ quy định chi tiết và hướng dẫn thi hành Pháp lệnh Ưu đãi người có công với Cách mạng.pdf": {
+    "storagePath": "docs/a533f2/a533f220f343.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a533f2/a533f220f343.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/Quy trình cấp Giấy xác nhận sinh viên/Van ban/Nghị định số 1312021NĐ-TTg của Chính phủ quy định chi tiết và hướng dẫn thi hành Pháp lệnh Ưu đãi người có công với Cách mạng.pdf"
+  },
+  "Quyết định số 052022QĐ-TTg sửa đổi bổ sung một số điều của Quyết định số 157QĐ-TTg của Thủ tướng Chính phủ về tín dụng đối với HSSV.pdf": {
+    "storagePath": "docs/5f8f3e/5f8f3e0a79ef.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5f8f3e/5f8f3e0a79ef.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/Quy trình cấp Giấy xác nhận sinh viên/Van ban/Quyết định số 052022QĐ-TTg sửa đổi bổ sung một số điều của Quyết định số 157QĐ-TTg của Thủ tướng Chính phủ về tín dụng đối với HSSV.pdf"
+  },
+  "Quyết định số 157QĐ-TTg của Thủ tướng Chính phủ về tín dụng đối với HSSV.pdf": {
+    "storagePath": "docs/b759d7/b759d7a77827.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b759d7/b759d7a77827.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/Quy trình cấp Giấy xác nhận sinh viên/Van ban/Quyết định số 157QĐ-TTg của Thủ tướng Chính phủ về tín dụng đối với HSSV.pdf"
+  },
+  "QUY TRÌNH CẬP NHẬT THÔNG TIN BAN CÁN SỰ - BCH LỚP.pdf": {
+    "storagePath": "docs/296203/2962035cd69d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/296203/2962035cd69d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH CẬP NHẬT THÔNG TIN BAN CÁN SỰ - BCH LỚP/QUY TRÌNH CẬP NHẬT THÔNG TIN BAN CÁN SỰ - BCH LỚP.pdf"
+  },
+  "QUY TRÌNH CẬP NHẬT THÔNG TIN GIẢNG VIÊN CHỦ NHIỆMCỐ VẤN HỌC TẬP TRÊN PHẦN MỀM QUẢN LÝ.pdf": {
+    "storagePath": "docs/b7f4c8/b7f4c8d25102.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b7f4c8/b7f4c8d25102.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH CẬP NHẬT THÔNG TIN GIẢNG VIÊN CHỦ NHIỆMCỐ VẤN HỌC TẬP TRÊN PHẦN MỀM QUẢN LÝ/QUY TRÌNH CẬP NHẬT THÔNG TIN GIẢNG VIÊN CHỦ NHIỆMCỐ VẤN HỌC TẬP TRÊN PHẦN MỀM QUẢN LÝ.pdf"
+  },
+  "Quy định về công tác cố vấn học tập của trường ĐHKTĐN.pdf": {
+    "storagePath": "docs/6a10f5/6a10f50d3d17.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6a10f5/6a10f50d3d17.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH CẬP NHẬT THÔNG TIN GIẢNG VIÊN CHỦ NHIỆMCỐ VẤN HỌC TẬP TRÊN PHẦN MỀM QUẢN LÝ/Van ban/Quy định về công tác cố vấn học tập của trường ĐHKTĐN.pdf"
+  },
+  "Quy trình cập nhật thông tin sinh viên.pdf": {
+    "storagePath": "docs/9a3a2e/9a3a2ec8b045.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9a3a2e/9a3a2ec8b045.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/Quy trình cập nhật thông tin sinh viên/Quy trình cập nhật thông tin sinh viên.pdf"
+  },
+  "QUY TRÌNH CẬP NHẬT TRẠNG THÁI SINH VIÊN TRÊN PHẦN MỀM QUẢN LÝ.pdf": {
+    "storagePath": "docs/fe407f/fe407ffc3fb6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/fe407f/fe407ffc3fb6.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH CẬP NHẬT TRẠNG THÁI SINH VIÊN TRÊN PHẦN MỀM QUẢN LÝ/QUY TRÌNH CẬP NHẬT TRẠNG THÁI SINH VIÊN TRÊN PHẦN MỀM QUẢN LÝ.pdf"
+  },
+  "Quy chế công tác sinh viên ĐH Kiến trúc ĐN.pdf": {
+    "storagePath": "docs/68abc8/68abc824a067.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/68abc8/68abc824a067.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH CẬP NHẬT TRẠNG THÁI SINH VIÊN TRÊN PHẦN MỀM QUẢN LÝ/Van ban/Quy chế công tác sinh viên ĐH Kiến trúc ĐN.pdf"
+  },
+  "Quy trình Khen thưởng và kỷ luật sinh viên.pdf": {
+    "storagePath": "docs/628bbe/628bbe9704ab.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/628bbe/628bbe9704ab.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/Quy trình Khen thưởng và kỷ luật sinh viên/Quy trình Khen thưởng và kỷ luật sinh viên.pdf"
+  },
+  "Quyết định số 347QĐ-ĐHKTĐN ngày 1182021 của Hiệu trưởng về việc ban hành Quy chế đào tạo trình độ đại học của Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/db46e9/db46e9212f33.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/db46e9/db46e9212f33.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/Quy trình Khen thưởng và kỷ luật sinh viên/Van ban/Quyết định số 347QĐ-ĐHKTĐN ngày 1182021 của Hiệu trưởng về việc ban hành Quy chế đào tạo trình độ đại học của Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "QUY TRÌNH LÀM THẺ SINH VIÊN.pdf": {
+    "storagePath": "docs/2cc405/2cc405c1efa4.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2cc405/2cc405c1efa4.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH LÀM THẺ SINH VIÊN/QUY TRÌNH LÀM THẺ SINH VIÊN.pdf"
+  },
+  "Quy chế công tác sinh viên Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/7ff29f/7ff29f4e2339.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7ff29f/7ff29f4e2339.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH LÀM THẺ SINH VIÊN/Van ban/Quy chế công tác sinh viên Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "Thông báo về việc đăng ký, sử dụng và bảo quản thẻ sinh viên.pdf": {
+    "storagePath": "docs/8ef313/8ef31323eada.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8ef313/8ef31323eada.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH LÀM THẺ SINH VIÊN/Van ban/Thông báo về việc đăng ký, sử dụng và bảo quản thẻ sinh viên.pdf"
+  },
+  "QUY TRÌNH QUẢN LÝ THÔNG TIN VÀ LƯU TRỮ HỒ SƠ SINH VIÊN.pdf": {
+    "storagePath": "docs/1f3c3d/1f3c3d0448aa.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1f3c3d/1f3c3d0448aa.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH QUẢN LÝ THÔNG TIN VÀ LƯU TRỮ HỒ SƠ SINH VIÊN/QUY TRÌNH QUẢN LÝ THÔNG TIN VÀ LƯU TRỮ HỒ SƠ SINH VIÊN.pdf"
+  },
+  "Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của ngành Giáo dục.pdf": {
+    "storagePath": "docs/aecdc4/aecdc487acbb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/aecdc4/aecdc487acbb.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH QUẢN LÝ THÔNG TIN VÀ LƯU TRỮ HỒ SƠ SINH VIÊN/Van ban/Quy định thời hạn bảo quản tài liệu chuyên môn nghiệp vụ của ngành Giáo dục.pdf"
+  },
+  "QUY TRÌNH XÉT GIẢM HỌC PHÍ.pdf": {
+    "storagePath": "docs/141c5e/141c5e732d35.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/141c5e/141c5e732d35.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH XÉT GIẢM HỌC PHÍ/QUY TRÌNH XÉT GIẢM HỌC PHÍ.pdf"
+  },
+  "Quy chế công tác sinh viên ĐH Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/4b5f3a/4b5f3a1b893d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4b5f3a/4b5f3a1b893d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH XÓA TÊN SINH VIÊN VĂNG NGHỈ HỌC DÀI NGÀY KHÔNG PHÉP/Van ban/Quy chế công tác sinh viên ĐH Kiến trúc Đà Nẵng.pdf"
+  },
+  "Quy định Về chế độ giảm học phí đối với sinh viên.pdf": {
+    "storagePath": "docs/407152/407152d469fe.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/407152/407152d469fe.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH XÉT GIẢM HỌC PHÍ/Van ban/Quy định Về chế độ giảm học phí đối với sinh viên.pdf"
+  },
+  "QUY TRÌNH XÓA TÊN SINH VIÊN VĂNG NGHỈ HỌC DÀI NGÀY KHÔNG PHÉP.pdf": {
+    "storagePath": "docs/8fe393/8fe39333b262.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8fe393/8fe39333b262.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH XÓA TÊN SINH VIÊN VĂNG NGHỈ HỌC DÀI NGÀY KHÔNG PHÉP/QUY TRÌNH XÓA TÊN SINH VIÊN VĂNG NGHỈ HỌC DÀI NGÀY KHÔNG PHÉP.pdf"
+  },
+  "QUY TRÌNH XỬ LÝ SINH VIÊN THÔI HỌC RÚT HỒ SƠ.pdf": {
+    "storagePath": "docs/97caea/97caeabe35ee.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/97caea/97caeabe35ee.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH XỬ LÝ SINH VIÊN THÔI HỌC RÚT HỒ SƠ/QUY TRÌNH XỬ LÝ SINH VIÊN THÔI HỌC RÚT HỒ SƠ.pdf"
+  },
+  "Quy chế đào tạo trình độ Đại học Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/ef6294/ef62946f0f1e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ef6294/ef62946f0f1e.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH XỬ LÝ SINH VIÊN THÔI HỌC RÚT HỒ SƠ/Van ban/Quy chế đào tạo trình độ Đại học Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "Quy chế đào tạo trình độ đại học.pdf": {
+    "storagePath": "docs/357331/35733105744c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/357331/35733105744c.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH XỬ LÝ SINH VIÊN THÔI HỌC RÚT HỒ SƠ/Van ban/Quy chế đào tạo trình độ đại học.pdf"
+  },
+  "QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN TOÀN KHÓA.pdf": {
+    "storagePath": "docs/519455/519455c26699.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/519455/519455c26699.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN/QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN TOÀN KHÓA/QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN TOÀN KHÓA.pdf"
+  },
+  "Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy.pdf": {
+    "storagePath": "docs/e912a8/e912a8fd84ef.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/e912a8/e912a8fd84ef.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN/Van ban/Quy chế đánh giá kết quả rèn luyện của người học được đào tạo trình độ đại học hệ chính quy.pdf"
+  },
+  "Quy định về tiêu chí, khung điểm, quy trình đánh giá kết quả rèn luyện của sinh viên Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/286586/286586b91a2e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/286586/286586b91a2e.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN/QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN TOÀN KHÓA/Van ban/Quy định về tiêu chí, khung điểm, quy trình đánh giá kết quả rèn luyện của sinh viên Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN.pdf": {
+    "storagePath": "docs/43a934/43a934c5dca5.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/43a934/43a934c5dca5.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN/QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN.pdf"
+  },
+  "QUY ĐỊNH VỀ TIÊU CHÍ, KHUNG ĐIỂM, QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN CỦA SINH VIÊN TRƯỜNG ĐẠI HỌC KIẾN TRÚC ĐÀ NẴNG.pdf": {
+    "storagePath": "docs/e55374/e55374b55a6e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/e55374/e55374b55a6e.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.CTSV/QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN/Van ban/QUY ĐỊNH VỀ TIÊU CHÍ, KHUNG ĐIỂM, QUY TRÌNH ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN CỦA SINH VIÊN TRƯỜNG ĐẠI HỌC KIẾN TRÚC ĐÀ NẴNG.pdf"
+  },
+  "Cập nhật, rà soát, điều chỉnh và bổ sung chương trình đào tạo.pdf": {
+    "storagePath": "docs/c95ff1/c95ff12d9e85.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c95ff1/c95ff12d9e85.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Cập nhật, rà soát, điều chỉnh và bổ sung chương trình đào tạo/Cập nhật, rà soát, điều chỉnh và bổ sung chương trình đào tạo.pdf"
+  },
+  "Thông tư số 082021TT-BGDĐT ngày 1832021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học..pdf": {
+    "storagePath": "docs/2f2a54/2f2a54bb0466.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2f2a54/2f2a54bb0466.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/QUY TRÌNH XỬ LÝ HỌC VỤ SINH VIÊN/van ban/Thông tư số 082021TT-BGDĐT ngày 1832021 của Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đào tạo trình độ đại học..pdf"
+  },
+  "Phân công giảng dạy.pdf": {
+    "storagePath": "docs/da08e1/da08e11f949a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/da08e1/da08e11f949a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Lập kế hoạch học kỳ theo CTK/1. Phân công giảng dạy/Phân công giảng dạy.pdf"
+  },
+  "Tổ chức LHP ngoài kế hoạch.pdf": {
+    "storagePath": "docs/147e18/147e183a965d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/147e18/147e183a965d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Lập kế hoạch học kỳ theo CTK/2. Tổ chức LHP ngoài kế hoạch/Tổ chức LHP ngoài kế hoạch.pdf"
+  },
+  "Lập kế hoạch học kỳ theo CTK.pdf": {
+    "storagePath": "docs/0d7486/0d748615d5cc.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0d7486/0d748615d5cc.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Lập kế hoạch học kỳ theo CTK/Lập kế hoạch học kỳ theo CTK.pdf"
+  },
+  "Kế hoạch GD&HT năm học cụ thể đã được HT ký ban hành.pdf": {
+    "storagePath": "docs/4af9a2/4af9a25b4520.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4af9a2/4af9a25b4520.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Lập kế hoạch năm học/Bieu mau/Kế hoạch GD&HT năm học cụ thể đã được HT ký ban hành.pdf"
+  },
+  "Lập kế hoạch năm học.pdf": {
+    "storagePath": "docs/1504d8/1504d805da33.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1504d8/1504d805da33.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Lập kế hoạch năm học/Lập kế hoạch năm học.pdf"
+  },
+  "Quy chế đào tạo 082021 của Bộ GD&ĐT.pdf": {
+    "storagePath": "docs/fbc56c/fbc56cc696da.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/fbc56c/fbc56cc696da.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Lập kế hoạch năm học/Van ban/Quy chế đào tạo 082021 của Bộ GD&ĐT.pdf"
+  },
+  "Quy chế đào tạo 347QĐ-ĐHKTĐN của Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/d92311/d92311fdc4a4.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d92311/d92311fdc4a4.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Lập kế hoạch năm học/Van ban/Quy chế đào tạo 347QĐ-ĐHKTĐN của Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "Lập thời khóa biểu (TKB).pdf": {
+    "storagePath": "docs/878896/878896ad1168.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/878896/878896ad1168.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Lập thời khóa biểu (TKB)/Lập thời khóa biểu (TKB).pdf"
+  },
+  "Thông báo thời gian ĐK HP học kỳ... 1.pdf": {
+    "storagePath": "docs/c82a52/c82a52f93f1a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c82a52/c82a52f93f1a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Lập thời khóa biểu (TKB)/van ban/Thông báo thời gian ĐK HP học kỳ... 1.pdf"
+  },
+  "Thông báo thời gian ĐK HP học kỳ... 2.pdf": {
+    "storagePath": "docs/42d798/42d798e84400.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/42d798/42d798e84400.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Lập thời khóa biểu (TKB)/van ban/Thông báo thời gian ĐK HP học kỳ... 2.pdf"
+  },
+  "QUY TRÌNH THANH TOÁN KHỐI LƯỢNG GIẢNG DẠY VƯỢT GIỜ CHUẨN ĐỊNH MỨC ĐỐI VỚI GIẢNG VIÊN CƠ HỮU.pdf": {
+    "storagePath": "docs/239b92/239b921a2f83.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/239b92/239b921a2f83.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/QUY TRÌNH THANH TOÁN KHỐI LƯỢNG GIẢNG DẠY VƯỢT GIỜ CHUẨN ĐỊNH MỨC ĐỐI VỚI GIẢNG VIÊN CƠ HỮU/QUY TRÌNH THANH TOÁN KHỐI LƯỢNG GIẢNG DẠY VƯỢT GIỜ CHUẨN ĐỊNH MỨC ĐỐI VỚI GIẢNG VIÊN CƠ HỮU.pdf"
+  },
+  "Bảo lưu kết quả học tập.pdf": {
+    "storagePath": "docs/24e133/24e133355ffa.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/24e133/24e133355ffa.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/QUY TRÌNH XỬ LÝ HỌC VỤ SINH VIÊN/1. Bảo lưu kết quả học tập/Bảo lưu kết quả học tập.pdf"
+  },
+  "Trở lại học tập sau khi bảo lưu.pdf": {
+    "storagePath": "docs/8de41a/8de41aa4ee3b.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8de41a/8de41aa4ee3b.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/QUY TRÌNH XỬ LÝ HỌC VỤ SINH VIÊN/2. Trở lại học tập sau khi bảo lưu/Trở lại học tập sau khi bảo lưu.pdf"
+  },
+  "SV xin chuyển từ trường khác đến Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/9a7056/9a7056f240ef.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9a7056/9a7056f240ef.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/QUY TRÌNH XỬ LÝ HỌC VỤ SINH VIÊN/3. SV xin chuyển từ trường khác đến Trường Đại học Kiến trúc Đà Nẵng/SV xin chuyển từ trường khác đến Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "SV xin chuyển từ Trường Đại học Kiến trúc Đà Nẵng đến trường khác.pdf": {
+    "storagePath": "docs/65f50e/65f50e0b2fb5.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/65f50e/65f50e0b2fb5.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/QUY TRÌNH XỬ LÝ HỌC VỤ SINH VIÊN/4. SV xin chuyển từ Trường Đại học Kiến trúc Đà Nẵng đến trường khác/SV xin chuyển từ Trường Đại học Kiến trúc Đà Nẵng đến trường khác.pdf"
+  },
+  "Quản lý hoạt động giảng dạy.pdf": {
+    "storagePath": "docs/a86ed6/a86ed68de219.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a86ed6/a86ed68de219.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Quản lý hoạt động giảng dạy/Quản lý hoạt động giảng dạy.pdf"
+  },
+  "Quản lý hoạt động giảng dạy của Giảng viên.pdf": {
+    "storagePath": "docs/dcc522/dcc5227672d4.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/dcc522/dcc5227672d4.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Quản lý hoạt động giảng dạy của Giảng viên/Quản lý hoạt động giảng dạy của Giảng viên.pdf"
+  },
+  "Kế hoạch giảng dạy và học tập năm học.pdf": {
+    "storagePath": "docs/09ff20/09ff208f9ae0.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/09ff20/09ff208f9ae0.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Quản lý hoạt động giảng dạy của Giảng viên/van ban/Kế hoạch giảng dạy và học tập năm học.pdf"
+  },
+  "Quyết định 347QĐ-ĐHKTĐN ban hành Quy chế đào tạo trình độ đại học của Trường ĐH Kiến trúc ĐN.pdf": {
+    "storagePath": "docs/18b31c/18b31caa0f1d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/18b31c/18b31caa0f1d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Xử lý kết quả học tập sinh viên/van ban/Quyết định 347QĐ-ĐHKTĐN ban hành Quy chế đào tạo trình độ đại học của Trường ĐH Kiến trúc ĐN.pdf"
+  },
+  "Thông tư 202020TT-BGDĐT ngày 27072020 của Bộ Giáo dục và Đào tạo.pdf": {
+    "storagePath": "docs/6baf42/6baf4231bd81.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6baf42/6baf4231bd81.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Quản lý hoạt động giảng dạy của Giảng viên/van ban/Thông tư 202020TT-BGDĐT ngày 27072020 của Bộ Giáo dục và Đào tạo.pdf"
+  },
+  "Quản lý viên thính giảng.pdf": {
+    "storagePath": "docs/7607b1/7607b188043d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7607b1/7607b188043d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Quản lý viên thính giảng/Quản lý viên thính giảng.pdf"
+  },
+  "HƯỚNG DẪN XỬ LÝ KQHT HỌC KỲ 1.pdf": {
+    "storagePath": "docs/f62380/f6238093f993.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f62380/f6238093f993.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Xử lý kết quả học tập sinh viên/van ban/HƯỚNG DẪN XỬ LÝ KQHT HỌC KỲ 1.pdf"
+  },
+  "HƯỚNG DẪN XỬ LÝ KQHT HỌC KỲ 2.pdf": {
+    "storagePath": "docs/a57ecf/a57ecffb0abf.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a57ecf/a57ecffb0abf.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Xử lý kết quả học tập sinh viên/van ban/HƯỚNG DẪN XỬ LÝ KQHT HỌC KỲ 2.pdf"
+  },
+  "Thông tư 082021TT-BGDĐT.pdf": {
+    "storagePath": "docs/7a9f60/7a9f60a0ec1c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7a9f60/7a9f60a0ec1c.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Xử lý kết quả học tập sinh viên/van ban/Thông tư 082021TT-BGDĐT.pdf"
+  },
+  "Xử lý kết quả học tập sinh viên.pdf": {
+    "storagePath": "docs/637db7/637db711f843.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/637db7/637db711f843.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.DAOTAO/Xử lý kết quả học tập sinh viên/Xử lý kết quả học tập sinh viên.pdf"
+  },
+  "Khám chữa bệnh hằng ngày.pdf": {
+    "storagePath": "docs/dc07b5/dc07b51de4e7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/dc07b5/dc07b51de4e7.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH  Khám chữa bệnh hằng ngày/Khám chữa bệnh hằng ngày.pdf"
+  },
+  "Quy định về công tác y tế trường học trong cơ sở giáo dục đại học và cơ sở giáo dục nghề nghiệp.pdf": {
+    "storagePath": "docs/a0a986/a0a986340e26.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a0a986/a0a986340e26.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH Khám sức khỏe sinh viên đầu khóa/Van ban/Quy định về công tác y tế trường học trong cơ sở giáo dục đại học và cơ sở giáo dục nghề nghiệp.pdf"
+  },
+  "KIỂM KÊ TÀI LIỆU, THIẾT BỊ.pdf": {
+    "storagePath": "docs/1e2b6a/1e2b6ac21647.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1e2b6a/1e2b6ac21647.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH  KIỂM KÊ TÀI LIỆU, THIẾT BỊ/KIỂM KÊ TÀI LIỆU, THIẾT BỊ.pdf"
+  },
+  "BỔ SUNG TÀI LIỆU (SÁCH, BÁO, TẠP CHÍ) TẠI THƯ VIỆN.pdf": {
+    "storagePath": "docs/43b0ae/43b0ae77c460.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/43b0ae/43b0ae77c460.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH BỔ SUNG TÀI LIỆU (SÁCH, BÁO, TẠP CHÍ) TẠI THƯ VIỆN/BỔ SUNG TÀI LIỆU (SÁCH, BÁO, TẠP CHÍ) TẠI THƯ VIỆN.pdf"
+  },
+  "Luật Thư viện.pdf": {
+    "storagePath": "docs/45260d/45260d39df02.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/45260d/45260d39df02.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH MƯỢN - TRẢ TÀI LIỆU TẠI THƯ VIỆN/Van ban/Luật Thư viện.pdf"
+  },
+  "Thông tư quy định tiêu chuẩn thư viện cơ sở giáo dục đại học.pdf": {
+    "storagePath": "docs/8b246c/8b246c9ec8aa.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8b246c/8b246c9ec8aa.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH MƯỢN - TRẢ TÀI LIỆU TẠI THƯ VIỆN/Van ban/Thông tư quy định tiêu chuẩn thư viện cơ sở giáo dục đại học.pdf"
+  },
+  "Thông tư về ban hành chuẩn cơ sở giáo dục đại học.pdf": {
+    "storagePath": "docs/4d205e/4d205eb5162f.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4d205e/4d205eb5162f.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH MƯỢN - TRẢ TÀI LIỆU TẠI THƯ VIỆN/Van ban/Thông tư về ban hành chuẩn cơ sở giáo dục đại học.pdf"
+  },
+  "CÔNG VIỆC HÀNH CHÍNH KHÁC.pdf": {
+    "storagePath": "docs/b8272b/b8272bbe86fc.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b8272b/b8272bbe86fc.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH CÔNG VIỆC HÀNH CHÍNH KHÁC/CÔNG VIỆC HÀNH CHÍNH KHÁC.pdf"
+  },
+  "Cấp thuốc cho đoàn đi công tác.pdf": {
+    "storagePath": "docs/268ec1/268ec1e33dc4.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/268ec1/268ec1e33dc4.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH Cấp thuốc cho đoàn đi công tác/Cấp thuốc cho đoàn đi công tác.pdf"
+  },
+  "Khám sức khỏe sinh viên đầu khóa.pdf": {
+    "storagePath": "docs/0f8928/0f8928b1addc.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0f8928/0f8928b1addc.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH Khám sức khỏe sinh viên đầu khóa/Khám sức khỏe sinh viên đầu khóa.pdf"
+  },
+  "Kiểm tra theo dõi nước uống qua lọc.pdf": {
+    "storagePath": "docs/622b92/622b92f5845b.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/622b92/622b92f5845b.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH Kiểm tra theo dõi nước uống qua lọc/Kiểm tra theo dõi nước uống qua lọc.pdf"
+  },
+  "Kiểm tra vệ sinh, môi trường.pdf": {
+    "storagePath": "docs/347819/347819b7f3fe.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/347819/347819b7f3fe.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH Kiểm tra vệ sinh, môi trường/Kiểm tra vệ sinh, môi trường.pdf"
+  },
+  "Mua thuốc, trang thiết bị y tế.pdf": {
+    "storagePath": "docs/95712d/95712dbe5eea.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/95712d/95712dbe5eea.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH Mua thuốc, trang thiết bị y tế/Mua thuốc, trang thiết bị y tế.pdf"
+  },
+  "MUA VÀ QUẢN LÝ DỤNG CỤ, TRANG THIẾT BỊ VĂN PHÒNG.pdf": {
+    "storagePath": "docs/0e0e94/0e0e94cd1814.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0e0e94/0e0e94cd1814.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH MUA VÀ QUẢN LÝ DỤNG CỤ, TRANG THIẾT BỊ VĂN PHÒNG/MUA VÀ QUẢN LÝ DỤNG CỤ, TRANG THIẾT BỊ VĂN PHÒNG.pdf"
+  },
+  "MƯỢN - TRẢ TÀI LIỆU TẠI THƯ VIÊN.pdf": {
+    "storagePath": "docs/6bfca6/6bfca62dac6e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6bfca6/6bfca62dac6e.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH MƯỢN - TRẢ TÀI LIỆU TẠI THƯ VIỆN/MƯỢN - TRẢ TÀI LIỆU TẠI THƯ VIÊN.pdf"
+  },
+  "PHỤC HỒI TÀI LIỆU.pdf": {
+    "storagePath": "docs/595ec2/595ec27c91e0.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/595ec2/595ec27c91e0.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH PHỤC HỒI TÀI LIỆU/PHỤC HỒI TÀI LIỆU.pdf"
+  },
+  "Quản lý hồ sơ BHYT, BHTN của sinh viên.pdf": {
+    "storagePath": "docs/a36a14/a36a1437737d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a36a14/a36a1437737d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH Quản lý hồ sơ BHYT, BHTN của sinh viên/Quản lý hồ sơ BHYT, BHTN của sinh viên.pdf"
+  },
+  "QUẢN LÝ PHÔI BẰNG.pdf": {
+    "storagePath": "docs/f36ea6/f36ea640cd3f.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f36ea6/f36ea640cd3f.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ PHÔI BẰNG/QUẢN LÝ PHÔI BẰNG.pdf"
+  },
+  "Luật số 34-2028-QH14 - Luật sửa đổi, bổ sung một số điều của Luật giáo dục đại học.pdf": {
+    "storagePath": "docs/2de5a6/2de5a69a79f7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2de5a6/2de5a69a79f7.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ PHÔI BẰNG/Van ban/Luật số 34-2028-QH14 - Luật sửa đổi, bổ sung một số điều của Luật giáo dục đại học.pdf"
+  },
+  "Nghị định 99-2029-NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung Luật GDĐH.pdf": {
+    "storagePath": "docs/7eafea/7eafeac27818.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7eafea/7eafeac27818.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ PHÔI BẰNG/Van ban/Nghị định 99-2029-NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung Luật GDĐH.pdf"
+  },
+  "QUẢN LÝ VĂN BẢN ĐI.pdf": {
+    "storagePath": "docs/f457d1/f457d10bab6a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f457d1/f457d10bab6a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ VĂN BẢN ĐI/QUẢN LÝ VĂN BẢN ĐI.pdf"
+  },
+  "Luật lưu trữ số 33-2024-QH15 ngày 21-6-2024.pdf": {
+    "storagePath": "docs/6981da/6981da223de8.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6981da/6981da223de8.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ VĂN BẢN ĐI/Van ban/Luật lưu trữ số 33-2024-QH15 ngày 21-6-2024.pdf"
+  },
+  "Nghị định 30-2020-NĐ-CP ngày 05-3-2020 về công tác văn thư.pdf": {
+    "storagePath": "docs/426280/426280467310.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/426280/426280467310.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ VĂN BẢN ĐI/Van ban/Nghị định 30-2020-NĐ-CP ngày 05-3-2020 về công tác văn thư.pdf"
+  },
+  "Thông tư 01-2024-TT-BGDĐT ngày 05-02-2024 về ban hành Chuẩn cơ sở giáo dục đại học.pdf": {
+    "storagePath": "docs/8778e9/8778e94788df.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8778e9/8778e94788df.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ VĂN BẢN ĐI/Van ban/Thông tư 01-2024-TT-BGDĐT ngày 05-02-2024 về ban hành Chuẩn cơ sở giáo dục đại học.pdf"
+  },
+  "Quan ly van ban den.pdf": {
+    "storagePath": "docs/aad6f1/aad6f1867062.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/aad6f1/aad6f1867062.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ VĂN BẢN ĐẾN/Quan ly van ban den.pdf"
+  },
+  "Luật Lưu trữ.pdf": {
+    "storagePath": "docs/a95fc0/a95fc0d3b8b8.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a95fc0/a95fc0d3b8b8.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ VĂN BẢN ĐẾN/Van ban/Luật Lưu trữ.pdf"
+  },
+  "Nghi định về công tác văn thư.pdf": {
+    "storagePath": "docs/ba0be8/ba0be842d6ba.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ba0be8/ba0be842d6ba.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ VĂN BẢN ĐẾN/Van ban/Nghi định về công tác văn thư.pdf"
+  },
+  "Thông tư ban hành Chuẩn cơ sở giáo dục đại học.pdf": {
+    "storagePath": "docs/4d615f/4d615ff9265e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4d615f/4d615ff9265e.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ VĂN BẢN ĐẾN/Van ban/Thông tư ban hành Chuẩn cơ sở giáo dục đại học.pdf"
+  },
+  "QUẢN LÝ WEBSITE THƯ VIỆN.pdf": {
+    "storagePath": "docs/7dac2d/7dac2d6e1713.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7dac2d/7dac2d6e1713.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ WEBSITE THƯ VIỆN/QUẢN LÝ WEBSITE THƯ VIỆN.pdf"
+  },
+  "QUẢN LÝ, SỬ DỤNG CON DẤU.pdf": {
+    "storagePath": "docs/032d5f/032d5fb7a7f8.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/032d5f/032d5fb7a7f8.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ, SỬ DỤNG CON DẤU/QUẢN LÝ, SỬ DỤNG CON DẤU.pdf"
+  },
+  "Nghị định 56-2023-NĐ-CP - Sửa đổi, bổ sung 1 số điều của Nghị định 99.pdf": {
+    "storagePath": "docs/8c8bdc/8c8bdcd7b484.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8c8bdc/8c8bdcd7b484.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ, SỬ DỤNG CON DẤU/Van ban/Nghị định 56-2023-NĐ-CP - Sửa đổi, bổ sung 1 số điều của Nghị định 99.pdf"
+  },
+  "Nghị định 99-2016-NĐ-CP - Quản lý và sử dụng con dấu.pdf": {
+    "storagePath": "docs/0c8cd6/0c8cd636e536.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0c8cd6/0c8cd636e536.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH QUẢN LÝ, SỬ DỤNG CON DẤU/Van ban/Nghị định 99-2016-NĐ-CP - Quản lý và sử dụng con dấu.pdf"
+  },
+  "THANH LÝ TÀI LIỆU.pdf": {
+    "storagePath": "docs/2f303f/2f303fda89dc.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2f303f/2f303fda89dc.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH THANH LÝ TÀI LIỆU/THANH LÝ TÀI LIỆU.pdf"
+  },
+  "TRA CỨU TÀI LIỆU.pdf": {
+    "storagePath": "docs/e6889a/e6889ab89348.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/e6889a/e6889ab89348.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH TRA CỨU TÀI LIỆU/TRA CỨU TÀI LIỆU.pdf"
+  },
+  "TỔ CHỨC HỘI NGHỊ, HỘI THẢO, CHƯƠNG TRÌNH.pdf": {
+    "storagePath": "docs/0d71fa/0d71fa3b8729.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0d71fa/0d71fa3b8729.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HC-TH/QUY TRÌNH TỔ CHỨC HỘI NGHỊ, HỘI THẢO, CHƯƠNG TRÌNH/TỔ CHỨC HỘI NGHỊ, HỘI THẢO, CHƯƠNG TRÌNH.pdf"
+  },
+  "Hoạt động phục vụ công tác truyền thông tuyển sinh offline - Quà tặng tuyển sinh.pdf": {
+    "storagePath": "docs/c1e8da/c1e8dab942bb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c1e8da/c1e8dab942bb.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Hoạt động phục vụ công tác truyền thông tuyển sinh offline - Quà tặng tuyển sinh/Hoạt động phục vụ công tác truyền thông tuyển sinh offline - Quà tặng tuyển sinh.pdf"
+  },
+  "Hoạt động phục vụ công tác truyền thông tuyển sinh offline - Ấn phẩm tuyển sinh.pdf": {
+    "storagePath": "docs/7d2845/7d2845270a38.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7d2845/7d2845270a38.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Hoạt động phục vụ công tác truyền thông tuyển sinh offline - Ấn phẩm tuyển sinh/Hoạt động phục vụ công tác truyền thông tuyển sinh offline - Ấn phẩm tuyển sinh.pdf"
+  },
+  "Quy chế tuyển sinh.pdf": {
+    "storagePath": "docs/dc9eec/dc9eeccf87a6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/dc9eec/dc9eeccf87a6.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Truyền thông tuyển sinh online/Văn bản/Quy chế tuyển sinh.pdf"
+  },
+  "Ký kết văn bản hợp tác (MoA, MoU).pdf": {
+    "storagePath": "docs/3415fa/3415fa0a6404.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3415fa/3415fa0a6404.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Ký kết văn bản hợp tác (MoA, MoU)/Ký kết văn bản hợp tác (MoA, MoU).pdf"
+  },
+  "Quy trình Tiếp đón đoàn khách quốc tế đến thăm và làm việc tại trường.pdf": {
+    "storagePath": "docs/946dc3/946dc399a156.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/946dc3/946dc399a156.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Tiếp đón đoàn khách quốc tế đến thăm và làm việc tại trường/Quy trình Tiếp đón đoàn khách quốc tế đến thăm và làm việc tại trường.pdf"
+  },
+  "Triển khai môn học cộng đồng đến giảng viên và sinh viên.pdf": {
+    "storagePath": "docs/f4dfde/f4dfde9e654b.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f4dfde/f4dfde9e654b.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Triển khai môn học cộng đồng đến giảng viên và sinh viên/Triển khai môn học cộng đồng đến giảng viên và sinh viên.pdf"
+  },
+  "Quyết định thành lập Trung tâm CELC-DAU.pdf": {
+    "storagePath": "docs/942b86/942b863b2945.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/942b86/942b863b2945.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Triển khai môn học cộng đồng đến giảng viên và sinh viên/Văn bản/Quyết định thành lập Trung tâm CELC-DAU.pdf"
+  },
+  "Truyền thông nội bộ - phát triển học hiệu.pdf": {
+    "storagePath": "docs/521ade/521ade511e46.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/521ade/521ade511e46.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Truyền thông nội bộ - phát triển học hiệu/Truyền thông nội bộ - phát triển học hiệu.pdf"
+  },
+  "Truyền thông nội bộ - tổ chức sự kiện.pdf": {
+    "storagePath": "docs/aa4a04/aa4a0472efb1.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/aa4a04/aa4a0472efb1.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Truyền thông nội bộ - tổ chức sự kiện/Truyền thông nội bộ - tổ chức sự kiện.pdf"
+  },
+  "Truyền thông nội bộ - Đưa tin sự kiện.pdf": {
+    "storagePath": "docs/6520c9/6520c9dccca5.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6520c9/6520c9dccca5.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Truyền thông nội bộ - Đưa tin sự kiện/Truyền thông nội bộ - Đưa tin sự kiện.pdf"
+  },
+  "Quy trình truyền thông, tuyển sinh online.pdf": {
+    "storagePath": "docs/4efdca/4efdca286332.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4efdca/4efdca286332.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Truyền thông tuyển sinh online/Quy trình truyền thông, tuyển sinh online.pdf"
+  },
+  "Báo cáo công tác tuyển sinh 2024, tuyên truyền tuyển sinh 2025.pdf": {
+    "storagePath": "docs/ffd5f6/ffd5f61a82fb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ffd5f6/ffd5f61a82fb.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Truyền thông tuyển sinh online/Văn bản/Báo cáo công tác tuyển sinh 2024, tuyên truyền tuyển sinh 2025.pdf"
+  },
+  "Tổ chức chương trình giao lưu văn hóa.pdf": {
+    "storagePath": "docs/ca1583/ca158354a49d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ca1583/ca158354a49d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Tổ chức chương trình giao lưu văn hóa/Tổ chức chương trình giao lưu văn hóa.pdf"
+  },
+  "Tổ chức chương trình thực tập Nhật Bản dành cho sinh viên.pdf": {
+    "storagePath": "docs/81ba6d/81ba6da9fa1c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/81ba6d/81ba6da9fa1c.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Tổ chức chương trình thực tập Nhật Bản dành cho sinh viên/Tổ chức chương trình thực tập Nhật Bản dành cho sinh viên.pdf"
+  },
+  "Tổ chức chương trình trao đổi sinh viên 3+1 với Trường Đại học Dân tộc Quảng Tây (Trung Quốc).pdf": {
+    "storagePath": "docs/4a756f/4a756f5980cd.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4a756f/4a756f5980cd.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Tổ chức chương trình trao đổi sinh viên 3+1 với Trường Đại học Dân tộc Quảng Tây (Trung Quốc)/Tổ chức chương trình trao đổi sinh viên 3+1 với Trường Đại học Dân tộc Quảng Tây (Trung Quốc).pdf"
+  },
+  "Tổ chức dự án cộng đồng.pdf": {
+    "storagePath": "docs/16e2b5/16e2b5ca03bc.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/16e2b5/16e2b5ca03bc.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Tổ chức dự án cộng đồng/Tổ chức dự án cộng đồng.pdf"
+  },
+  "Quy trình Tổ chức Hội nghị-Hội thảo quốc tế.pdf": {
+    "storagePath": "docs/821660/821660008665.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/821660/821660008665.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Tổ chức Hội nghị-Hội thảo quốc tế/Quy trình Tổ chức Hội nghị-Hội thảo quốc tế.pdf"
+  },
+  "Tổ chức hội thảo, workshop, chương trình tập huấn.pdf": {
+    "storagePath": "docs/6786df/6786dfc2a41a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6786df/6786dfc2a41a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Tổ chức hội thảo, workshop, chương trình tập huấn/Tổ chức hội thảo, workshop, chương trình tập huấn.pdf"
+  },
+  "Tổ chức đoàn ra dành cho các đoàn đại diện Trường Đại học Kiến trúc Đà Nẵng đi công tác nước ngoài.pdf": {
+    "storagePath": "docs/96015c/96015c318f42.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/96015c/96015c318f42.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Tổ chức đoàn ra dành cho các đoàn đại diện Trường Đại học Kiến trúc Đà Nẵng đi công tác nước ngoài/Tổ chức đoàn ra dành cho các đoàn đại diện Trường Đại học Kiến trúc Đà Nẵng đi công tác nước ngoài.pdf"
+  },
+  "Xin cấp thẻ tạm trú cho người lao động nước ngoài.pdf": {
+    "storagePath": "docs/9ace2e/9ace2e3dca75.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9ace2e/9ace2e3dca75.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Xin cấp thẻ tạm trú cho người lao động nước ngoài/Xin cấp thẻ tạm trú cho người lao động nước ngoài.pdf"
+  },
+  "Xin cấp, gia hạn giấy phép lao động cho người lao động nước ngoài làm việc tại Trường.pdf": {
+    "storagePath": "docs/d8a0ba/d8a0bab99254.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d8a0ba/d8a0bab99254.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.HTQT-TT/Xin cấp, gia hạn giấy phép lao động cho người lao động nước ngoài làm việc tại Trường/Xin cấp, gia hạn giấy phép lao động cho người lao động nước ngoài làm việc tại Trường.pdf"
+  },
+  "Quy trình quản lý đề tài KHCN giảng viên.pdf": {
+    "storagePath": "docs/9c33ee/9c33ee2fa231.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9c33ee/9c33ee2fa231.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/1.Quy trình quản lý đề tài KHCN giảng viên/Văn bản/Quy trình quản lý đề tài KHCN giảng viên.pdf"
+  },
+  "Quy trình quản lý đề tài NCKH của sinh viên.pdf": {
+    "storagePath": "docs/50305a/50305a9b84e5.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/50305a/50305a9b84e5.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/2.Quy trình quản lý đề tài NCKH của sinh viên/Văn bản/Quy trình quản lý đề tài NCKH của sinh viên.pdf"
+  },
+  "1.Quy trình hoạt động của Hội đồng Khoa học & Đào tạo.pdf": {
+    "storagePath": "docs/8d3649/8d3649901ca6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8d3649/8d3649901ca6.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/3.Quy trình hoạt động của Hội đồng Khoa học & Đào tạo Trường Đại học Kiến trúc Đà Nẵng/Văn bản/1.Quy trình hoạt động của Hội đồng Khoa học & Đào tạo.pdf"
+  },
+  "2.Quy chế tổ chức và hoạt động Trường 2019.pdf": {
+    "storagePath": "docs/53e641/53e6416808d1.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/53e641/53e6416808d1.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/3.Quy trình hoạt động của Hội đồng Khoa học & Đào tạo Trường Đại học Kiến trúc Đà Nẵng/Văn bản/2.Quy chế tổ chức và hoạt động Trường 2019.pdf"
+  },
+  "3.Quyết định thành lập Hội đồng Khoa học và Đào tạo trường.pdf": {
+    "storagePath": "docs/530de0/530de0cc795a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/530de0/530de0cc795a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/3.Quy trình hoạt động của Hội đồng Khoa học & Đào tạo Trường Đại học Kiến trúc Đà Nẵng/Văn bản/3.Quyết định thành lập Hội đồng Khoa học và Đào tạo trường.pdf"
+  },
+  "4.Luật Giáo dục - 43-2019-QH14.pdf": {
+    "storagePath": "docs/f43216/f432162a82f8.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f43216/f432162a82f8.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/3.Quy trình hoạt động của Hội đồng Khoa học & Đào tạo Trường Đại học Kiến trúc Đà Nẵng/Văn bản/4.Luật Giáo dục - 43-2019-QH14.pdf"
+  },
+  "Quy trình thanh toán giờ Nghiên cứu khoa học.pdf": {
+    "storagePath": "docs/930293/930293294d2d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/930293/930293294d2d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/4. Quy trình thanh toán giờ Nghiên cứu khoa học/Văn bản/Quy trình thanh toán giờ Nghiên cứu khoa học.pdf"
+  },
+  "Quy trình thanh toán công bố quốc tế.pdf": {
+    "storagePath": "docs/033ce7/033ce710012f.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/033ce7/033ce710012f.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/5. Quy trình thanh toán công bố quốc tế/Văn bản/Quy trình thanh toán công bố quốc tế.pdf"
+  },
+  "Quy trình đăng ký tham dự Hội nghị, Hội thảo.pdf": {
+    "storagePath": "docs/63493f/63493f14d2ee.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/63493f/63493f14d2ee.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/6.Quy trình đăng ký tham dự Hội nghị, Hội thảo/Văn bản/Quy trình đăng ký tham dự Hội nghị, Hội thảo.pdf"
+  },
+  "1.Quy trình hoạt động của nhóm nghiên cứu Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/32cac9/32cac93b3ae1.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/32cac9/32cac93b3ae1.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/7.Quy trình hoạt động của nhóm nghiên cứu, nghiên cứu mạnh ở Trường Đại học Kiến trúc Đà Nẵng/Văn bản/1.Quy trình hoạt động của nhóm nghiên cứu Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "3.Luật Khoa học công nghệ.pdf": {
+    "storagePath": "docs/3b8515/3b8515192fab.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3b8515/3b8515192fab.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/7.Quy trình hoạt động của nhóm nghiên cứu, nghiên cứu mạnh ở Trường Đại học Kiến trúc Đà Nẵng/Văn bản/3.Luật Khoa học công nghệ.pdf"
+  },
+  "4.Quy chế tổ chức và hoạt động Trường 2019.pdf": {
+    "storagePath": "docs/4d6547/4d6547a5a148.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4d6547/4d6547a5a148.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/7.Quy trình hoạt động của nhóm nghiên cứu, nghiên cứu mạnh ở Trường Đại học Kiến trúc Đà Nẵng/Văn bản/4.Quy chế tổ chức và hoạt động Trường 2019.pdf"
+  },
+  "5.Nghị định 22.2018.pdf": {
+    "storagePath": "docs/fca565/fca565ae0e06.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/fca565/fca565ae0e06.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/7.Quy trình hoạt động của nhóm nghiên cứu, nghiên cứu mạnh ở Trường Đại học Kiến trúc Đà Nẵng/Văn bản/5.Nghị định 22.2018.pdf"
+  },
+  "6.Nghị định 109.2022.pdf": {
+    "storagePath": "docs/8609f1/8609f1f2543f.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8609f1/8609f1f2543f.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/7.Quy trình hoạt động của nhóm nghiên cứu, nghiên cứu mạnh ở Trường Đại học Kiến trúc Đà Nẵng/Văn bản/6.Nghị định 109.2022.pdf"
+  },
+  "7.Thông tư 08.2021.pdf": {
+    "storagePath": "docs/56a750/56a7506e460f.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/56a750/56a7506e460f.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/7.Quy trình hoạt động của nhóm nghiên cứu, nghiên cứu mạnh ở Trường Đại học Kiến trúc Đà Nẵng/Văn bản/7.Thông tư 08.2021.pdf"
+  },
+  "Quy trình tổ chức Hội nghị, Hội thảo khoa học.pdf": {
+    "storagePath": "docs/491cf3/491cf316c6fd.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/491cf3/491cf316c6fd.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.KH-CN/8.Quy trình tổ chức Hội nghị, Hội thảo khoa học/Văn bản/Quy trình tổ chức Hội nghị, Hội thảo khoa học.pdf"
+  },
+  "QT.TH-02.pdf": {
+    "storagePath": "docs/bee1c3/bee1c3a72dc5.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bee1c3/bee1c3a72dc5.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trinh mua sắm vật tư, trang thiết bị/bieu mau/QT.TH-02.pdf"
+  },
+  "TH-02-06.pdf": {
+    "storagePath": "docs/8a48ba/8a48ba8a189c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8a48ba/8a48ba8a189c.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trinh mua sắm vật tư, trang thiết bị/bieu mau/TH-02-06.pdf"
+  },
+  "TH-02-07.pdf": {
+    "storagePath": "docs/b0f5ff/b0f5ffc0edc8.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b0f5ff/b0f5ffc0edc8.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trinh mua sắm vật tư, trang thiết bị/bieu mau/TH-02-07.pdf"
+  },
+  "Quy trinh mua sắm vật tư, trang thiết bị.pdf": {
+    "storagePath": "docs/4e8027/4e80278cc4a6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4e8027/4e80278cc4a6.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trinh mua sắm vật tư, trang thiết bị/Quy trinh mua sắm vật tư, trang thiết bị.pdf"
+  },
+  "Kế hoạch, dự trù mua sắm sửa chữa cải tạo cơ sở vật chất và trang thiết bị.pdf": {
+    "storagePath": "docs/68fad2/68fad2776cd0.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/68fad2/68fad2776cd0.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trinh mua sắm vật tư, trang thiết bị/van ban/Kế hoạch, dự trù mua sắm sửa chữa cải tạo cơ sở vật chất và trang thiết bị.pdf"
+  },
+  "Luật đấu thầu số 222023QH15.pdf": {
+    "storagePath": "docs/6cc876/6cc8767e0d95.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6cc876/6cc8767e0d95.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trinh mua sắm vật tư, trang thiết bị/van ban/Luật đấu thầu số 222023QH15.pdf"
+  },
+  "Nghị định 35 - Quản lý chi phí đầu tư xây dựng, chất lượng & bảo trì công trình.pdf": {
+    "storagePath": "docs/bfa5d3/bfa5d35f5814.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bfa5d3/bfa5d35f5814.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trinh mua sắm vật tư, trang thiết bị/van ban/Nghị định 35 - Quản lý chi phí đầu tư xây dựng, chất lượng & bảo trì công trình.pdf"
+  },
+  "Quy trình lập báo cáo tài chính năm.pdf": {
+    "storagePath": "docs/6cccf7/6cccf73180c1.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6cccf7/6cccf73180c1.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trinh mua sắm vật tư, trang thiết bị/van ban/Quy trình lập báo cáo tài chính năm.pdf"
+  },
+  "Về việc lập kế hoạch tài chính năm của các đơn vị thuộc trường.pdf": {
+    "storagePath": "docs/8846f0/8846f0cb8943.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8846f0/8846f0cb8943.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trinh mua sắm vật tư, trang thiết bị/van ban/Về việc lập kế hoạch tài chính năm của các đơn vị thuộc trường.pdf"
+  },
+  "BM 04-01.pdf": {
+    "storagePath": "docs/23ced6/23ced62a5b20.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/23ced6/23ced62a5b20.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/BIEU MAU/BM 04-01.pdf"
+  },
+  "BM 04-02.pdf": {
+    "storagePath": "docs/ae1100/ae11000d4923.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ae1100/ae11000d4923.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/BIEU MAU/BM 04-02.pdf"
+  },
+  "BM 04-03.pdf": {
+    "storagePath": "docs/4b6be5/4b6be5435e71.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4b6be5/4b6be5435e71.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/BIEU MAU/BM 04-03.pdf"
+  },
+  "BM 04-04.pdf": {
+    "storagePath": "docs/5060ab/5060ab3c869f.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5060ab/5060ab3c869f.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/BIEU MAU/BM 04-04.pdf"
+  },
+  "BM 04-05.pdf": {
+    "storagePath": "docs/bee187/bee1873f67cd.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bee187/bee1873f67cd.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/BIEU MAU/BM 04-05.pdf"
+  },
+  "BM 04-06.pdf": {
+    "storagePath": "docs/04691f/04691f70c200.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/04691f/04691f70c200.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/BIEU MAU/BM 04-06.pdf"
+  },
+  "BM 04-07.pdf": {
+    "storagePath": "docs/457357/457357e9edda.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/457357/457357e9edda.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/BIEU MAU/BM 04-07.pdf"
+  },
+  "BM 04-08.pdf": {
+    "storagePath": "docs/3a89df/3a89dfcac651.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3a89df/3a89dfcac651.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/BIEU MAU/BM 04-08.pdf"
+  },
+  "Quy trình bảo trì sữa chữa trang thiết bị.pdf": {
+    "storagePath": "docs/09c859/09c859b458d8.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/09c859/09c859b458d8.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/Quy trình bảo trì sữa chữa trang thiết bị.pdf"
+  },
+  "Quy trình bảo trì sửa chữa trang thiết bị (Kèm theo QĐ 568 của Hiệu trưởng).pdf": {
+    "storagePath": "docs/fb14c1/fb14c1010544.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/fb14c1/fb14c1010544.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/VAN BAN/Quy trình bảo trì sửa chữa trang thiết bị (Kèm theo QĐ 568 của Hiệu trưởng).pdf"
+  },
+  "Quy định chi tiết hợp đồng.pdf": {
+    "storagePath": "docs/05ce8a/05ce8abaefff.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/05ce8a/05ce8abaefff.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/VAN BAN/Quy định chi tiết hợp đồng.pdf"
+  },
+  "Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng.pdf": {
+    "storagePath": "docs/bfde50/bfde50b9f46a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bfde50/bfde50b9f46a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/VAN BAN/Quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng.pdf"
+  },
+  "Quy định chi tiết một số nộị dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình.pdf": {
+    "storagePath": "docs/928087/928087054f1d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/928087/928087054f1d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/VAN BAN/Quy định chi tiết một số nộị dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình.pdf"
+  },
+  "Quy định phân cấp công trình và hướng dẫn áp dụng trong quản lý xây dựng.pdf": {
+    "storagePath": "docs/5f7b3b/5f7b3bd2dc0b.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5f7b3b/5f7b3bd2dc0b.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/VAN BAN/Quy định phân cấp công trình và hướng dẫn áp dụng trong quản lý xây dựng.pdf"
+  },
+  "Quản lý chi phí đầu tư xây dựng.pdf": {
+    "storagePath": "docs/51c3e7/51c3e7779751.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/51c3e7/51c3e7779751.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/VAN BAN/Quản lý chi phí đầu tư xây dựng.pdf"
+  },
+  "Sửa đổi, bổ sung một số điều của các Nghị định thuộc lĩnh vực quản lý nhà nước đầu tư xây dựng.pdf": {
+    "storagePath": "docs/728bce/728bceec74fa.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/728bce/728bceec74fa.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/VAN BAN/Sửa đổi, bổ sung một số điều của các Nghị định thuộc lĩnh vực quản lý nhà nước đầu tư xây dựng.pdf"
+  },
+  "Sửa đổi, bổ sung một số điều Nghi định 37 về chi tiết hợp đồng.pdf": {
+    "storagePath": "docs/605754/6057546ee045.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/605754/6057546ee045.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình bảo trì sữa chữa trang thiết bị/VAN BAN/Sửa đổi, bổ sung một số điều Nghi định 37 về chi tiết hợp đồng.pdf"
+  },
+  "BM 03-01.pdf": {
+    "storagePath": "docs/26e911/26e911356468.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/26e911/26e911356468.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-01.pdf"
+  },
+  "BM 03-02.pdf": {
+    "storagePath": "docs/38c11c/38c11c489f71.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/38c11c/38c11c489f71.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-02.pdf"
+  },
+  "BM 03-03.pdf": {
+    "storagePath": "docs/11013f/11013f1a9b01.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/11013f/11013f1a9b01.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-03.pdf"
+  },
+  "BM 03-04.pdf": {
+    "storagePath": "docs/f31537/f315371c8136.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f31537/f315371c8136.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-04.pdf"
+  },
+  "BM 03-05.pdf": {
+    "storagePath": "docs/80420d/80420debe18a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/80420d/80420debe18a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-05.pdf"
+  },
+  "BM 03-06.pdf": {
+    "storagePath": "docs/9be04d/9be04d232090.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9be04d/9be04d232090.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-06.pdf"
+  },
+  "BM 03-07.pdf": {
+    "storagePath": "docs/39928d/39928d1708fb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/39928d/39928d1708fb.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-07.pdf"
+  },
+  "BM 03-08.pdf": {
+    "storagePath": "docs/28784d/28784d028fbe.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/28784d/28784d028fbe.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-08.pdf"
+  },
+  "BM 03-09.pdf": {
+    "storagePath": "docs/444674/4446740202c5.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/444674/4446740202c5.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-09.pdf"
+  },
+  "BM 03-10.pdf": {
+    "storagePath": "docs/cdd09d/cdd09da0005c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/cdd09d/cdd09da0005c.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-10.pdf"
+  },
+  "BM 03-11.pdf": {
+    "storagePath": "docs/9f53d0/9f53d075f5ff.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9f53d0/9f53d075f5ff.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/bieu mau/BM 03-11.pdf"
+  },
+  "Quy trình quản lý tài sản trang thiết bị.pdf": {
+    "storagePath": "docs/6df09f/6df09f9c66bb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6df09f/6df09f9c66bb.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/Quy trình quản lý tài sản trang thiết bị.pdf"
+  },
+  "Phương án kiểm kê tài sản trang thiết bị.pdf": {
+    "storagePath": "docs/3a85ac/3a85acca570c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3a85ac/3a85acca570c.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/van ban/Phương án kiểm kê tài sản trang thiết bị.pdf"
+  },
+  "Quy trình quản lý tài sản và trang thiết bị.pdf": {
+    "storagePath": "docs/efad1e/efad1e6a7165.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/efad1e/efad1e6a7165.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/van ban/Quy trình quản lý tài sản và trang thiết bị.pdf"
+  },
+  "Quyết định ban hành quản lý CSVC và trang thiết bị của Hiệu trưởng.pdf": {
+    "storagePath": "docs/5ca862/5ca8625fddf0.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5ca862/5ca8625fddf0.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.QLDA và QTTB/Quy trình quản lý tài sản trang thiết bị/van ban/Quyết định ban hành quản lý CSVC và trang thiết bị của Hiệu trưởng.pdf"
+  },
   "QT.TCKT.12 - 2.png": {
-    "storagePath": "docs/897f55/897f5516b4cc.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/897f55/897f5516b4cc.png",
+    "storagePath": "docs/069a77/069a7756e68c.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/069a77/069a7756e68c.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH CHI TRẢ CÁC KHOẢN TIỀN SINH VIÊN NỘP NHẦM-NỘP THỪA/bieu mau/QT.TCKT.12 - 2.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH CHI TRẢ CÁC KHOẢN TIỀN SINH VIÊN NỘP NHẦM-NỘP THỪA/bieu mau/QT.TCKT.12 - 2.png"
   },
   "QT.TCKT.12 - 3.png": {
-    "storagePath": "docs/934c35/934c35ba4c7f.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/934c35/934c35ba4c7f.png",
+    "storagePath": "docs/579e54/579e54279ee9.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/579e54/579e54279ee9.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH CHI TRẢ CÁC KHOẢN TIỀN SINH VIÊN NỘP NHẦM-NỘP THỪA/bieu mau/QT.TCKT.12 - 3.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH CHI TRẢ CÁC KHOẢN TIỀN SINH VIÊN NỘP NHẦM-NỘP THỪA/bieu mau/QT.TCKT.12 - 3.png"
   },
   "QUY TRÌNH CHI TRẢ CÁC KHOẢN TIỀN SINH VIÊN NỘP NHẦM-NỘP THỪA.pdf": {
-    "storagePath": "docs/69043c/69043c8f10d7.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/69043c/69043c8f10d7.pdf",
+    "storagePath": "docs/f065f6/f065f6815372.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f065f6/f065f6815372.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH CHI TRẢ CÁC KHOẢN TIỀN SINH VIÊN NỘP NHẦM-NỘP THỪA/QUY TRÌNH CHI TRẢ CÁC KHOẢN TIỀN SINH VIÊN NỘP NHẦM-NỘP THỪA.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH CHI TRẢ CÁC KHOẢN TIỀN SINH VIÊN NỘP NHẦM-NỘP THỪA/QUY TRÌNH CHI TRẢ CÁC KHOẢN TIỀN SINH VIÊN NỘP NHẦM-NỘP THỪA.pdf"
   },
   "QT.TCKT.10 - 03.png": {
-    "storagePath": "docs/7a666c/7a666c352f50.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7a666c/7a666c352f50.png",
+    "storagePath": "docs/d39bf2/d39bf21c9c6e.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d39bf2/d39bf21c9c6e.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH GIA HẠN HỌC PHÍ/Bieu mau/QT.TCKT.10 - 03.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH GIA HẠN HỌC PHÍ/Bieu mau/QT.TCKT.10 - 03.png"
   },
   "QT.TCKT.10 - 04.png": {
-    "storagePath": "docs/962d30/962d30c98a1d.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/962d30/962d30c98a1d.png",
+    "storagePath": "docs/eb8403/eb840370bd62.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/eb8403/eb840370bd62.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH GIA HẠN HỌC PHÍ/Bieu mau/QT.TCKT.10 - 04.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH GIA HẠN HỌC PHÍ/Bieu mau/QT.TCKT.10 - 04.png"
   },
   "QT.TCKT.10 - 05.png": {
-    "storagePath": "docs/fa055b/fa055bdab865.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/fa055b/fa055bdab865.png",
+    "storagePath": "docs/ddede6/ddede64dfad8.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ddede6/ddede64dfad8.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH GIA HẠN HỌC PHÍ/Bieu mau/QT.TCKT.10 - 05.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH GIA HẠN HỌC PHÍ/Bieu mau/QT.TCKT.10 - 05.png"
   },
   "QT.TCKT.10 - 06.png": {
-    "storagePath": "docs/afc15a/afc15ac2a7e0.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/afc15a/afc15ac2a7e0.png",
+    "storagePath": "docs/7c4440/7c4440b5bdb1.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7c4440/7c4440b5bdb1.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH GIA HẠN HỌC PHÍ/Bieu mau/QT.TCKT.10 - 06.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH GIA HẠN HỌC PHÍ/Bieu mau/QT.TCKT.10 - 06.png"
   },
   "QUY TRÌNH GIA HẠN HỌC PHÍ.pdf": {
-    "storagePath": "docs/ceacf3/ceacf3274147.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ceacf3/ceacf3274147.pdf",
+    "storagePath": "docs/08e697/08e697b0a773.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/08e697/08e697b0a773.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH GIA HẠN HỌC PHÍ/QUY TRÌNH GIA HẠN HỌC PHÍ.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH GIA HẠN HỌC PHÍ/QUY TRÌNH GIA HẠN HỌC PHÍ.pdf"
   },
   "QUY TRÌNH HẠCH TOÁN BẢO HIỂM XÃ HỘI CỦA NHÂN VIÊN VÀO GIÁ THÀNH.pdf": {
-    "storagePath": "docs/e24ab8/e24ab83b2a53.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/e24ab8/e24ab83b2a53.pdf",
+    "storagePath": "docs/d7fdcb/d7fdcbdbea67.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d7fdcb/d7fdcbdbea67.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH HẠCH TOÁN BẢO HIỂM XÃ HỘI CỦA NHÂN VIÊN VÀO GIÁ THÀNH/QUY TRÌNH HẠCH TOÁN BẢO HIỂM XÃ HỘI CỦA NHÂN VIÊN VÀO GIÁ THÀNH.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH HẠCH TOÁN BẢO HIỂM XÃ HỘI CỦA NHÂN VIÊN VÀO GIÁ THÀNH/QUY TRÌNH HẠCH TOÁN BẢO HIỂM XÃ HỘI CỦA NHÂN VIÊN VÀO GIÁ THÀNH.pdf"
   },
   "thông tư 2002014BTC áp dụng cho đơn vị kế toán doanh nghiệp.pdf": {
-    "storagePath": "docs/17f610/17f6102de717.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/17f610/17f6102de717.pdf",
+    "storagePath": "docs/de1b99/de1b99a5f2fa.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/de1b99/de1b99a5f2fa.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH KÊ KHAI VÀ NỘP THUẾ TNDN SAU KHI QUYẾT TOÁN TÀI CHÍNH NĂM/van ban/thông tư 2002014BTC áp dụng cho đơn vị kế toán doanh nghiệp.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH KÊ KHAI VÀ NỘP THUẾ TNDN SAU KHI QUYẾT TOÁN TÀI CHÍNH NĂM/van ban/thông tư 2002014BTC áp dụng cho đơn vị kế toán doanh nghiệp.pdf"
   },
   "Quy trình tổng hợp quyết toán tài chính doanh nghiệp.pdf": {
-    "storagePath": "docs/34a293/34a29325257a.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/34a293/34a29325257a.pdf",
+    "storagePath": "docs/1a0f39/1a0f3964b407.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1a0f39/1a0f3964b407.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH KÊ KHAI VÀ NỘP THUẾ TNDN SAU KHI QUYẾT TOÁN TÀI CHÍNH NĂM/1. Quy trình tổng hợp quyết toán tài chính doanh nghiệp/Quy trình tổng hợp quyết toán tài chính doanh nghiệp.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH KÊ KHAI VÀ NỘP THUẾ TNDN SAU KHI QUYẾT TOÁN TÀI CHÍNH NĂM/1. Quy trình tổng hợp quyết toán tài chính doanh nghiệp/Quy trình tổng hợp quyết toán tài chính doanh nghiệp.pdf"
   },
   "QUY TRÌNH KÊ KHAI VÀ NỘP THUẾ TNDN SAU KHI QUYẾT TOÁN TÀI CHÍNH NĂM.pdf": {
-    "storagePath": "docs/4d24af/4d24af47da7e.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4d24af/4d24af47da7e.pdf",
+    "storagePath": "docs/8ca6fa/8ca6fa2e0494.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8ca6fa/8ca6fa2e0494.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH KÊ KHAI VÀ NỘP THUẾ TNDN SAU KHI QUYẾT TOÁN TÀI CHÍNH NĂM/QUY TRÌNH KÊ KHAI VÀ NỘP THUẾ TNDN SAU KHI QUYẾT TOÁN TÀI CHÍNH NĂM.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH KÊ KHAI VÀ NỘP THUẾ TNDN SAU KHI QUYẾT TOÁN TÀI CHÍNH NĂM/QUY TRÌNH KÊ KHAI VÀ NỘP THUẾ TNDN SAU KHI QUYẾT TOÁN TÀI CHÍNH NĂM.pdf"
   },
   "Quy trình làm việc của thủ quỹ.pdf": {
-    "storagePath": "docs/902ef6/902ef6d8b4e5.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/902ef6/902ef6d8b4e5.pdf",
+    "storagePath": "docs/83c4c8/83c4c8e63317.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/83c4c8/83c4c8e63317.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình làm việc của thủ quỹ/Quy trình làm việc của thủ quỹ.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình làm việc của thủ quỹ/Quy trình làm việc của thủ quỹ.pdf"
   },
   "Quy trình phân bổ, xác định TSCĐ.pdf": {
-    "storagePath": "docs/70620a/70620a108ea6.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/70620a/70620a108ea6.pdf",
+    "storagePath": "docs/9a141a/9a141ac8b52a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9a141a/9a141ac8b52a.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN/1. Quy trình phân bổ, xác định TSCĐ/Quy trình phân bổ, xác định TSCĐ.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN/1. Quy trình phân bổ, xác định TSCĐ/Quy trình phân bổ, xác định TSCĐ.pdf"
   },
   "Quy trình xác định, phân bổ công cụ dụng cụ (CCDC).pdf": {
-    "storagePath": "docs/96283f/96283ff2ab3a.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/96283f/96283ff2ab3a.pdf",
+    "storagePath": "docs/0ed0ca/0ed0cae31dc8.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0ed0ca/0ed0cae31dc8.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN/2. Quy trình xác định, phân bổ công cụ dụng cụ (CCDC)/Quy trình xác định, phân bổ công cụ dụng cụ (CCDC).pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN/2. Quy trình xác định, phân bổ công cụ dụng cụ (CCDC)/Quy trình xác định, phân bổ công cụ dụng cụ (CCDC).pdf"
   },
   "Quy trình xác định, phân bổ dài hạn.pdf": {
-    "storagePath": "docs/1dcb83/1dcb83de422a.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1dcb83/1dcb83de422a.pdf",
+    "storagePath": "docs/526a15/526a15069d75.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/526a15/526a15069d75.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN/3. Quy trình xác định, phân bổ dài hạn/Quy trình xác định, phân bổ dài hạn.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN/3. Quy trình xác định, phân bổ dài hạn/Quy trình xác định, phân bổ dài hạn.pdf"
   },
   "QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN.pdf": {
-    "storagePath": "docs/eb44ba/eb44baa0b4cb.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/eb44ba/eb44baa0b4cb.pdf",
+    "storagePath": "docs/34d9c4/34d9c4a65766.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/34d9c4/34d9c4a65766.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN/QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN/QUY TRÌNH PHÂN BỔ TÀI SẢN CỐ ĐỊNH, CÔNG CỤ DỤNG CỤ, PHÂN BỔ DÀI HẠN.pdf"
   },
   "QT.TCKT.13- 1.pdf": {
-    "storagePath": "docs/351cb2/351cb221bc7e.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/351cb2/351cb221bc7e.pdf",
+    "storagePath": "docs/19dd9d/19dd9da550e1.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/19dd9d/19dd9da550e1.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13- 1.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13- 1.pdf"
   },
   "QT.TCKT.13- 10.png": {
-    "storagePath": "docs/680cde/680cde5b6fac.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/680cde/680cde5b6fac.png",
+    "storagePath": "docs/99ad1a/99ad1a806227.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/99ad1a/99ad1a806227.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13- 10.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13- 10.png"
   },
   "QT.TCKT.13- 2.png": {
-    "storagePath": "docs/7f5a7c/7f5a7c802693.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7f5a7c/7f5a7c802693.png",
+    "storagePath": "docs/12675b/12675bdac8e1.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/12675b/12675bdac8e1.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13- 2.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13- 2.png"
   },
   "QT.TCKT.13- 8.png": {
-    "storagePath": "docs/b0ae0e/b0ae0ea86716.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b0ae0e/b0ae0ea86716.png",
+    "storagePath": "docs/3549ac/3549ac31bb6b.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3549ac/3549ac31bb6b.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13- 8.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13- 8.png"
   },
   "QT.TCKT.13- 9.png": {
-    "storagePath": "docs/f20060/f20060acd6dd.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f20060/f20060acd6dd.png",
+    "storagePath": "docs/5fbf99/5fbf993970b1.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5fbf99/5fbf993970b1.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13- 9.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13- 9.png"
   },
   "QT.TCKT.13-3.png": {
-    "storagePath": "docs/1c2f1e/1c2f1e3e6456.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1c2f1e/1c2f1e3e6456.png",
+    "storagePath": "docs/c3a57b/c3a57bfdcf2f.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c3a57b/c3a57bfdcf2f.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13-3.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13-3.png"
   },
   "QT.TCKT.13-7.png": {
-    "storagePath": "docs/78a281/78a281d1ee11.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/78a281/78a281d1ee11.png",
+    "storagePath": "docs/0eb29e/0eb29e9480a6.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0eb29e/0eb29e9480a6.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13-7.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/bieu mau/QT.TCKT.13-7.png"
   },
   "QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN.pdf": {
-    "storagePath": "docs/6ab34b/6ab34bd8a8ef.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6ab34b/6ab34bd8a8ef.pdf",
+    "storagePath": "docs/b58aa2/b58aa2a2a340.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b58aa2/b58aa2a2a340.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN/QUY TRÌNH QUẢN LÝ CÔNG NỢ SINH VIÊN.pdf"
   },
   "Thông báo nộp học phí của mỗi học kỳ trong mỗi năm học.pdf": {
-    "storagePath": "docs/5f76a0/5f76a055c3d2.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5f76a0/5f76a055c3d2.pdf",
+    "storagePath": "docs/1e578f/1e578fdc8c1d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1e578f/1e578fdc8c1d.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/1. Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC/Van ban/Thông báo nộp học phí của mỗi học kỳ trong mỗi năm học.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/1. Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC/Van ban/Thông báo nộp học phí của mỗi học kỳ trong mỗi năm học.pdf"
   },
   "Quy trình mở hợp đồng tiền gửi.pdf": {
-    "storagePath": "docs/afcd3b/afcd3bc35ee7.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/afcd3b/afcd3bc35ee7.pdf",
+    "storagePath": "docs/b6473f/b6473fc2ca1c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b6473f/b6473fc2ca1c.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM/1. Quy trình mở hợp đồng tiền gửi/Quy trình mở hợp đồng tiền gửi.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM/1. Quy trình mở hợp đồng tiền gửi/Quy trình mở hợp đồng tiền gửi.pdf"
   },
   "Quy trình đóng hợp đồng tiền gửi.pdf": {
-    "storagePath": "docs/dd144c/dd144c6e5b10.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/dd144c/dd144c6e5b10.pdf",
+    "storagePath": "docs/0051b1/0051b14f81ff.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0051b1/0051b14f81ff.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM/2. Quy trình đóng hợp đồng tiền gửi/Quy trình đóng hợp đồng tiền gửi.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM/2. Quy trình đóng hợp đồng tiền gửi/Quy trình đóng hợp đồng tiền gửi.pdf"
   },
   "Quy trình tái tục hợp đồng tiền gửi.pdf": {
-    "storagePath": "docs/62a0c2/62a0c2cb56fd.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/62a0c2/62a0c2cb56fd.pdf",
+    "storagePath": "docs/4ad71f/4ad71f1fbb56.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4ad71f/4ad71f1fbb56.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM/3. Quy trình tái tục hợp đồng tiền gửi/Quy trình tái tục hợp đồng tiền gửi.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM/3. Quy trình tái tục hợp đồng tiền gửi/Quy trình tái tục hợp đồng tiền gửi.pdf"
   },
   "QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM.pdf": {
-    "storagePath": "docs/91f3f6/91f3f61f350f.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/91f3f6/91f3f61f350f.pdf",
+    "storagePath": "docs/b4ba47/b4ba476bcf36.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b4ba47/b4ba476bcf36.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM/QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM/QUY TRÌNH QUẢN LÝ TIỀN GỬI TIẾT KIỆM.pdf"
   },
   "Quy trình tạm ứng.pdf": {
-    "storagePath": "docs/ed15df/ed15df000e9a.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ed15df/ed15df000e9a.pdf",
+    "storagePath": "docs/c196b1/c196b1fdf8cd.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c196b1/c196b1fdf8cd.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/1. Quy trình tạm ứng/Quy trình tạm ứng.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/1. Quy trình tạm ứng/Quy trình tạm ứng.pdf"
   },
   "Quy chế chi tiêu nội bộ của Trường Đại học Kiến Trúc Đà Nẵng năm 2022.pdf": {
-    "storagePath": "docs/3b215e/3b215effcdfd.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3b215e/3b215effcdfd.pdf",
+    "storagePath": "docs/836f4f/836f4f8f7940.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/836f4f/836f4f8f7940.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/van ban/Quy chế chi tiêu nội bộ của Trường Đại học Kiến Trúc Đà Nẵng năm 2022.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/van ban/Quy chế chi tiêu nội bộ của Trường Đại học Kiến Trúc Đà Nẵng năm 2022.pdf"
   },
   "Quy trình thanh toán tham gia hội nghị, hội thảo.pdf": {
-    "storagePath": "docs/16b496/16b4969fe064.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/16b496/16b4969fe064.pdf",
+    "storagePath": "docs/bd8bdd/bd8bddbadcfb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bd8bdd/bd8bddbadcfb.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/2. Quy trình thanh toán tham gia hội nghị, hội thảo/Quy trình thanh toán tham gia hội nghị, hội thảo.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/2. Quy trình thanh toán tham gia hội nghị, hội thảo/Quy trình thanh toán tham gia hội nghị, hội thảo.pdf"
   },
   "Quy trình thanh toán kinh phí hỗ trợ tham gia bồi dưỡng, tập huấn.pdf": {
-    "storagePath": "docs/a6b9c0/a6b9c08c0249.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a6b9c0/a6b9c08c0249.pdf",
+    "storagePath": "docs/d30481/d3048132fd1e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d30481/d3048132fd1e.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/3. Quy trình thanh toán kinh phí hỗ trợ tham gia bồi dưỡng, tập huấn/Quy trình thanh toán kinh phí hỗ trợ tham gia bồi dưỡng, tập huấn.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/3. Quy trình thanh toán kinh phí hỗ trợ tham gia bồi dưỡng, tập huấn/Quy trình thanh toán kinh phí hỗ trợ tham gia bồi dưỡng, tập huấn.pdf"
   },
   "Quy trình thanh toán công tác phí trong nước.pdf": {
-    "storagePath": "docs/1bb2f1/1bb2f12b0fce.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1bb2f1/1bb2f12b0fce.pdf",
+    "storagePath": "docs/85440a/85440a363416.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/85440a/85440a363416.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/4. Quy trình thanh toán công tác phí trong nước/Quy trình thanh toán công tác phí trong nước.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/4. Quy trình thanh toán công tác phí trong nước/Quy trình thanh toán công tác phí trong nước.pdf"
   },
   "Quy trình thanh toán mua sắm hàng hóa, dịch vụ, sửa chữa thông qua phòng QLTB.pdf": {
-    "storagePath": "docs/774f07/774f07264e80.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/774f07/774f07264e80.pdf",
+    "storagePath": "docs/d5cb20/d5cb2088394b.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d5cb20/d5cb2088394b.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/5. Quy trình thanh toán mua sắm hàng hóa, dịch vụ, sửa chữa thông qua phòng QLTB/Quy trình thanh toán mua sắm hàng hóa, dịch vụ, sửa chữa thông qua phòng QLTB.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/5. Quy trình thanh toán mua sắm hàng hóa, dịch vụ, sửa chữa thông qua phòng QLTB/Quy trình thanh toán mua sắm hàng hóa, dịch vụ, sửa chữa thông qua phòng QLTB.pdf"
   },
   "Luật kế toán - Quy định về chứng từ, lưu trữ, kế toán tài sản.pdf": {
-    "storagePath": "docs/611ad1/611ad1bd4c57.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/611ad1/611ad1bd4c57.pdf",
+    "storagePath": "docs/e32850/e32850220b68.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/e32850/e32850220b68.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/5. Quy trình thanh toán mua sắm hàng hóa, dịch vụ, sửa chữa thông qua phòng QLTB/van ban/Luật kế toán - Quy định về chứng từ, lưu trữ, kế toán tài sản.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/5. Quy trình thanh toán mua sắm hàng hóa, dịch vụ, sửa chữa thông qua phòng QLTB/van ban/Luật kế toán - Quy định về chứng từ, lưu trữ, kế toán tài sản.pdf"
   },
   "Quy trình thanh toán mua sắm hàng hóa, dịch vụ.pdf": {
-    "storagePath": "docs/abfda2/abfda22a89b3.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/abfda2/abfda22a89b3.pdf",
+    "storagePath": "docs/d3f317/d3f317839ce7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d3f317/d3f317839ce7.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/6. Quy trình thanh toán mua sắm hàng hóa, dịch vụ/Quy trình thanh toán mua sắm hàng hóa, dịch vụ.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/6. Quy trình thanh toán mua sắm hàng hóa, dịch vụ/Quy trình thanh toán mua sắm hàng hóa, dịch vụ.pdf"
   },
   "Nghị định 702025NĐ-Cp sửa đổi một số điều của NĐ số 1232020NĐ-CP ngày 19102020 quy định về hóa đơn, chứng từ.pdf": {
-    "storagePath": "docs/b7a3d4/b7a3d4d68735.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b7a3d4/b7a3d4d68735.pdf",
+    "storagePath": "docs/11cb62/11cb620adbc8.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/11cb62/11cb620adbc8.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/Van ban/Nghị định 702025NĐ-Cp sửa đổi một số điều của NĐ số 1232020NĐ-CP ngày 19102020 quy định về hóa đơn, chứng từ.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/Van ban/Nghị định 702025NĐ-Cp sửa đổi một số điều của NĐ số 1232020NĐ-CP ngày 19102020 quy định về hóa đơn, chứng từ.pdf"
   },
   "Thông tư 1112013TT-BTC Hướng dẫn thuế TNCN khấu trừ, giảm trừ gia cảnh, thời điểm kê khai.pdf": {
-    "storagePath": "docs/7654bc/7654bc55a47d.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7654bc/7654bc55a47d.pdf",
+    "storagePath": "docs/3e87ee/3e87ee4cc178.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3e87ee/3e87ee4cc178.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo/van ban/Thông tư 1112013TT-BTC Hướng dẫn thuế TNCN khấu trừ, giảm trừ gia cảnh, thời điểm kê khai.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo/van ban/Thông tư 1112013TT-BTC Hướng dẫn thuế TNCN khấu trừ, giảm trừ gia cảnh, thời điểm kê khai.pdf"
   },
   "Thông tư 962015TT-BTC Hướng dẫn thuế TNDN chi phí hợp lý, khống chế mức chi, các khoản không được tính vào chi phí.pdf": {
-    "storagePath": "docs/968207/9682074fc8ec.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/968207/9682074fc8ec.pdf",
+    "storagePath": "docs/52de8a/52de8afba14c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/52de8a/52de8afba14c.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo/van ban/Thông tư 962015TT-BTC Hướng dẫn thuế TNDN chi phí hợp lý, khống chế mức chi, các khoản không được tính vào chi phí.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo/van ban/Thông tư 962015TT-BTC Hướng dẫn thuế TNDN chi phí hợp lý, khống chế mức chi, các khoản không được tính vào chi phí.pdf"
   },
   "QUY TRÌNH THANH QUYẾT TOÁN.pdf": {
-    "storagePath": "docs/9cbd8a/9cbd8af8e244.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9cbd8a/9cbd8af8e244.pdf",
+    "storagePath": "docs/a49aff/a49aff49e96c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a49aff/a49aff49e96c.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/QUY TRÌNH THANH QUYẾT TOÁN.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/QUY TRÌNH THANH QUYẾT TOÁN.pdf"
   },
   "Bộ luật Lao động 2019 (452019QH14) Quy định về tiền lương, phụ cấp, các khoản thanh toán cho người lao động.pdf": {
-    "storagePath": "docs/a66010/a66010496083.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a66010/a66010496083.pdf",
+    "storagePath": "docs/a0de5b/a0de5b7d839a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a0de5b/a0de5b7d839a.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/van ban/Bộ luật Lao động 2019 (452019QH14) Quy định về tiền lương, phụ cấp, các khoản thanh toán cho người lao động.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/van ban/Bộ luật Lao động 2019 (452019QH14) Quy định về tiền lương, phụ cấp, các khoản thanh toán cho người lao động.pdf"
   },
   "Luật kế toán số 882015QH13.pdf": {
-    "storagePath": "docs/0c5b23/0c5b23eb9c0d.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0c5b23/0c5b23eb9c0d.pdf",
+    "storagePath": "docs/621ec7/621ec7c6532a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/621ec7/621ec7c6532a.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/van ban/Luật kế toán số 882015QH13.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/van ban/Luật kế toán số 882015QH13.pdf"
   },
   "Luật quản lý thuế số 382019QH14.pdf": {
-    "storagePath": "docs/a62f68/a62f68c5687d.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a62f68/a62f68c5687d.pdf",
+    "storagePath": "docs/0756fe/0756fe03bc3e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0756fe/0756fe03bc3e.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/van ban/Luật quản lý thuế số 382019QH14.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/van ban/Luật quản lý thuế số 382019QH14.pdf"
   },
   "Nghị định 1232020NĐ-CP Về hóa đơn – chứng từ điện tử (quy định chung) – đi cùng TT 782021TT-BTC.pdf": {
-    "storagePath": "docs/f54556/f54556adb73e.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f54556/f54556adb73e.pdf",
+    "storagePath": "docs/5775f4/5775f41f663a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5775f4/5775f41f663a.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/van ban/Nghị định 1232020NĐ-CP Về hóa đơn – chứng từ điện tử (quy định chung) – đi cùng TT 782021TT-BTC.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/van ban/Nghị định 1232020NĐ-CP Về hóa đơn – chứng từ điện tử (quy định chung) – đi cùng TT 782021TT-BTC.pdf"
   },
   "Nghị định 174 quy định một số điều của luật kế toán số 882015QH13.pdf": {
-    "storagePath": "docs/9edc72/9edc7276d96e.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9edc72/9edc7276d96e.pdf",
+    "storagePath": "docs/4733fc/4733fc4886ef.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4733fc/4733fc4886ef.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/van ban/Nghị định 174 quy định một số điều của luật kế toán số 882015QH13.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/van ban/Nghị định 174 quy định một số điều của luật kế toán số 882015QH13.pdf"
   },
   "Thông tư 2192013TT-BTC Hướng dẫn thực hiện thuế GTGT, bao gồm nguyên tắc hóa đơn đầu vào.pdf": {
-    "storagePath": "docs/27ef61/27ef61c92555.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/27ef61/27ef61c92555.pdf",
+    "storagePath": "docs/b095f8/b095f88063ca.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b095f8/b095f88063ca.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/van ban/Thông tư 2192013TT-BTC Hướng dẫn thực hiện thuế GTGT, bao gồm nguyên tắc hóa đơn đầu vào.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/van ban/Thông tư 2192013TT-BTC Hướng dẫn thực hiện thuế GTGT, bao gồm nguyên tắc hóa đơn đầu vào.pdf"
   },
   "Thông tư 782021TT-BTC hướng dẫn luật quản lý thuế.pdf": {
-    "storagePath": "docs/27da6d/27da6dc35640.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/27da6d/27da6dc35640.pdf",
+    "storagePath": "docs/f79801/f79801e50fce.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f79801/f79801e50fce.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/van ban/Thông tư 782021TT-BTC hướng dẫn luật quản lý thuế.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/van ban/Thông tư 782021TT-BTC hướng dẫn luật quản lý thuế.pdf"
   },
   "Thông tư 802021TT-BTC hướng dẫn chi tiết thi hành luật quản lý thuế số 382019.pdf": {
-    "storagePath": "docs/fa3124/fa3124ef1147.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/fa3124/fa3124ef1147.pdf",
+    "storagePath": "docs/ed4a2b/ed4a2bfd422a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ed4a2b/ed4a2bfd422a.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THANH QUYẾT TOÁN/van ban/Thông tư 802021TT-BTC hướng dẫn chi tiết thi hành luật quản lý thuế số 382019.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THANH QUYẾT TOÁN/van ban/Thông tư 802021TT-BTC hướng dẫn chi tiết thi hành luật quản lý thuế số 382019.pdf"
   },
   "Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo.pdf": {
-    "storagePath": "docs/7db5cd/7db5cdec3772.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7db5cd/7db5cdec3772.pdf",
+    "storagePath": "docs/bf1e98/bf1e9852c0a7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bf1e98/bf1e9852c0a7.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo/Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo/Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo.pdf"
   },
   "Hướng dẫn luật quản lý thuế.pdf": {
-    "storagePath": "docs/8609d4/8609d4833eb5.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8609d4/8609d4833eb5.pdf",
+    "storagePath": "docs/0c91da/0c91da552e09.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0c91da/0c91da552e09.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo/van ban/Hướng dẫn luật quản lý thuế.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình thanh toán kinh phí tổ chức hội nghị, hội thảo/van ban/Hướng dẫn luật quản lý thuế.pdf"
   },
   "Màng hình các bước vào Lập kế hoạch thu học phí - Tín chỉ.png": {
-    "storagePath": "docs/386b04/386b046f5fa8.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/386b04/386b046f5fa8.png",
+    "storagePath": "docs/c4bbd3/c4bbd342629c.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c4bbd3/c4bbd342629c.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/1. Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC/Bieu mau/Màng hình các bước vào Lập kế hoạch thu học phí - Tín chỉ.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/1. Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC/Bieu mau/Màng hình các bước vào Lập kế hoạch thu học phí - Tín chỉ.png"
   },
   "Màng hình khi hoàn thành Lập kế hoạch thu học phí - Tín chỉ.png": {
-    "storagePath": "docs/e584b2/e584b2297016.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/e584b2/e584b2297016.png",
+    "storagePath": "docs/a945ac/a945ac9e2f25.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a945ac/a945ac9e2f25.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/1. Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC/Bieu mau/Màng hình khi hoàn thành Lập kế hoạch thu học phí - Tín chỉ.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/1. Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC/Bieu mau/Màng hình khi hoàn thành Lập kế hoạch thu học phí - Tín chỉ.png"
   },
   "Màng hình Tạo kế hoạch thu - Tín chỉ.png": {
-    "storagePath": "docs/1aa87a/1aa87a15972a.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1aa87a/1aa87a15972a.png",
+    "storagePath": "docs/85a742/85a742650291.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/85a742/85a742650291.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/1. Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC/Bieu mau/Màng hình Tạo kế hoạch thu - Tín chỉ.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/1. Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC/Bieu mau/Màng hình Tạo kế hoạch thu - Tín chỉ.png"
   },
   "Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC.pdf": {
-    "storagePath": "docs/7ad28b/7ad28b0ad14d.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7ad28b/7ad28b0ad14d.pdf",
+    "storagePath": "docs/198f91/198f91e5d1fb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/198f91/198f91e5d1fb.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/1. Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC/Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/1. Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC/Quy trình lập kế hoạch thu học phí trong phần mềm thu phí ASC.pdf"
   },
   "Cách vào màng hình tạo khoản thu ngoài học phí.png": {
-    "storagePath": "docs/89b654/89b6541831ff.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/89b654/89b6541831ff.png",
+    "storagePath": "docs/a613f3/a613f3db41d0.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a613f3/a613f3db41d0.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Bieu mau/Cách vào màng hình tạo khoản thu ngoài học phí.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Bieu mau/Cách vào màng hình tạo khoản thu ngoài học phí.png"
   },
   "Màng hình hoàn thành việc lập Kế hoạch thu Lệ phí, Bảo hiểm.png": {
-    "storagePath": "docs/afa388/afa388985b75.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/afa388/afa388985b75.png",
+    "storagePath": "docs/5cfe77/5cfe778d1e73.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5cfe77/5cfe778d1e73.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Bieu mau/Màng hình hoàn thành việc lập Kế hoạch thu Lệ phí, Bảo hiểm.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Bieu mau/Màng hình hoàn thành việc lập Kế hoạch thu Lệ phí, Bảo hiểm.png"
   },
   "Màng hình lập Kế hoạch thu chung.png": {
-    "storagePath": "docs/7cd6da/7cd6dab61127.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7cd6da/7cd6dab61127.png",
+    "storagePath": "docs/b58c52/b58c52d84bf7.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b58c52/b58c52d84bf7.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Bieu mau/Màng hình lập Kế hoạch thu chung.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Bieu mau/Màng hình lập Kế hoạch thu chung.png"
   },
   "Màng hình tạo mới khoản thu ngoài học phí.png": {
-    "storagePath": "docs/d1e3b7/d1e3b77c0bad.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d1e3b7/d1e3b77c0bad.png",
+    "storagePath": "docs/010b8b/010b8b5564ba.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/010b8b/010b8b5564ba.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Bieu mau/Màng hình tạo mới khoản thu ngoài học phí.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Bieu mau/Màng hình tạo mới khoản thu ngoài học phí.png"
   },
   "Màng hình vào kế hoạch thu chung.png": {
-    "storagePath": "docs/6d41c0/6d41c0430ed9.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6d41c0/6d41c0430ed9.png",
+    "storagePath": "docs/a6764f/a6764f3485eb.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a6764f/a6764f3485eb.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Bieu mau/Màng hình vào kế hoạch thu chung.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Bieu mau/Màng hình vào kế hoạch thu chung.png"
   },
   "Lập kế hoạch thu các khoản lệ phí, bảo hiểm.pdf": {
-    "storagePath": "docs/86fcf0/86fcf0f183fd.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/86fcf0/86fcf0f183fd.pdf",
+    "storagePath": "docs/2a9e4f/2a9e4f005d5f.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2a9e4f/2a9e4f005d5f.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Lập kế hoạch thu các khoản lệ phí, bảo hiểm.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/2. Lập kế hoạch thu các khoản lệ phí, bảo hiểm/Lập kế hoạch thu các khoản lệ phí, bảo hiểm.pdf"
   },
   "QT.TCKT - 02.03-1.png": {
-    "storagePath": "docs/658d22/658d222e591c.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/658d22/658d222e591c.png",
+    "storagePath": "docs/cf15b0/cf15b0d47556.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/cf15b0/cf15b0d47556.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT - 02.03-1.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT - 02.03-1.png"
   },
   "QT.TCKT -02.03-2.png": {
-    "storagePath": "docs/8ed6c0/8ed6c00f8abb.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8ed6c0/8ed6c00f8abb.png",
+    "storagePath": "docs/0753c2/0753c2193a11.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0753c2/0753c2193a11.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-2.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-2.png"
   },
   "QT.TCKT -02.03-3.png": {
-    "storagePath": "docs/0e301c/0e301cd98f6b.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0e301c/0e301cd98f6b.png",
+    "storagePath": "docs/6a71be/6a71bebaea04.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6a71be/6a71bebaea04.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-3.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-3.png"
   },
   "QT.TCKT -02.03-4.png": {
-    "storagePath": "docs/4a7081/4a70813f7ad4.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4a7081/4a70813f7ad4.png",
+    "storagePath": "docs/8ee060/8ee0605b3c76.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8ee060/8ee0605b3c76.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-4.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-4.png"
   },
   "QT.TCKT -02.03-5.png": {
-    "storagePath": "docs/63a1f7/63a1f7ced9d3.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/63a1f7/63a1f7ced9d3.png",
+    "storagePath": "docs/b6089f/b6089f1a1f82.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b6089f/b6089f1a1f82.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-5.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-5.png"
   },
   "QT.TCKT -02.03-6.png": {
-    "storagePath": "docs/12b4f9/12b4f998c9c0.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/12b4f9/12b4f998c9c0.png",
+    "storagePath": "docs/0b6596/0b6596e5ebed.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0b6596/0b6596e5ebed.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-6.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-6.png"
   },
   "QT.TCKT -02.03-7.png": {
-    "storagePath": "docs/7bbbcf/7bbbcf9c8859.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7bbbcf/7bbbcf9c8859.png",
+    "storagePath": "docs/223f52/223f52195314.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/223f52/223f52195314.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-7.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Bieu mau/QT.TCKT -02.03-7.png"
   },
   "Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt.pdf": {
-    "storagePath": "docs/06063d/06063dbb9670.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/06063d/06063dbb9670.pdf",
+    "storagePath": "docs/de6a08/de6a08a71a80.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/de6a08/de6a08a71a80.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/3. Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt/Quy trình thu học phí, lệ phí, bảo hiểm y tế, bảo hiểm tai nạn bằng tiền mặt.pdf"
   },
   "QT.TCKT -02.04-1.png": {
-    "storagePath": "docs/7caaac/7caaacdc2c58.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7caaac/7caaacdc2c58.png",
+    "storagePath": "docs/68bf26/68bf267c0a52.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/68bf26/68bf267c0a52.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/bieu mau/QT.TCKT -02.04-1.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/bieu mau/QT.TCKT -02.04-1.png"
   },
   "QT.TCKT -02.04-2.png": {
-    "storagePath": "docs/c0c8c4/c0c8c4805690.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c0c8c4/c0c8c4805690.png",
+    "storagePath": "docs/296c0a/296c0a4df609.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/296c0a/296c0a4df609.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/bieu mau/QT.TCKT -02.04-2.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/bieu mau/QT.TCKT -02.04-2.png"
   },
   "QT.TCKT -02.04-3.png": {
-    "storagePath": "docs/f35062/f350621dc0d6.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f35062/f350621dc0d6.png",
+    "storagePath": "docs/bb391b/bb391b20beac.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bb391b/bb391b20beac.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/bieu mau/QT.TCKT -02.04-3.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/bieu mau/QT.TCKT -02.04-3.png"
   },
   "QT.TCKT -02.04-4.jpg": {
-    "storagePath": "docs/53a634/53a634c6e72c.jpg",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/53a634/53a634c6e72c.jpg",
+    "storagePath": "docs/1d3f11/1d3f1128140f.jpg",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1d3f11/1d3f1128140f.jpg",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/bieu mau/QT.TCKT -02.04-4.jpg"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/bieu mau/QT.TCKT -02.04-4.jpg"
   },
   "QT.TCKT -02.04-5.png": {
-    "storagePath": "docs/fe93fc/fe93fc82aaa5.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/fe93fc/fe93fc82aaa5.png",
+    "storagePath": "docs/5b76d1/5b76d1f2293c.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5b76d1/5b76d1f2293c.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/bieu mau/QT.TCKT -02.04-5.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/bieu mau/QT.TCKT -02.04-5.png"
   },
   "QUYTRN~1.PDF": {
-    "storagePath": "docs/b5b14a/b5b14afea6ac.PDF",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b5b14a/b5b14afea6ac.PDF",
+    "storagePath": "docs/da9258/da9258076ff2.PDF",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/da9258/da9258076ff2.PDF",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/QUYTRN~1.PDF"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/4. Quy trình thu học phí bằng hình thức thanh toán gạch nợ qua app ngân hàng, nhập dữ liệu từ phần mềm ASC vào phần mềm kế toán/QUYTRN~1.PDF"
   },
   "QT.TCKT -02.05-1.png": {
-    "storagePath": "docs/32fe38/32fe38cb55e2.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/32fe38/32fe38cb55e2.png",
+    "storagePath": "docs/7adb1b/7adb1b44e52a.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7adb1b/7adb1b44e52a.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/5. Quy trình thu học phí của Sinh viên nhập học/bieu mau/QT.TCKT -02.05-1.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/5. Quy trình thu học phí của Sinh viên nhập học/bieu mau/QT.TCKT -02.05-1.png"
   },
   "QT.TCKT -02.05-2.png": {
-    "storagePath": "docs/a21d9a/a21d9a863557.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a21d9a/a21d9a863557.png",
+    "storagePath": "docs/463415/4634151e77af.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/463415/4634151e77af.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/5. Quy trình thu học phí của Sinh viên nhập học/bieu mau/QT.TCKT -02.05-2.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/5. Quy trình thu học phí của Sinh viên nhập học/bieu mau/QT.TCKT -02.05-2.png"
   },
   "QT.TCKT -02.05-3.png": {
-    "storagePath": "docs/937dd7/937dd7d32402.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/937dd7/937dd7d32402.png",
+    "storagePath": "docs/5946cb/5946cb1b2f17.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5946cb/5946cb1b2f17.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/5. Quy trình thu học phí của Sinh viên nhập học/bieu mau/QT.TCKT -02.05-3.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/5. Quy trình thu học phí của Sinh viên nhập học/bieu mau/QT.TCKT -02.05-3.png"
   },
   "Quy trình thu học phí của Sinh viên nhập học.pdf": {
-    "storagePath": "docs/3b3ece/3b3ece80628a.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3b3ece/3b3ece80628a.pdf",
+    "storagePath": "docs/661ff7/661ff71b513c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/661ff7/661ff71b513c.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/5. Quy trình thu học phí của Sinh viên nhập học/Quy trình thu học phí của Sinh viên nhập học.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/5. Quy trình thu học phí của Sinh viên nhập học/Quy trình thu học phí của Sinh viên nhập học.pdf"
   },
   "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN.pdf": {
-    "storagePath": "docs/1ea9f0/1ea9f01b18f6.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1ea9f0/1ea9f01b18f6.pdf",
+    "storagePath": "docs/485ead/485ead4b7b8d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/485ead/485ead4b7b8d.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN.pdf"
   },
   "Luật Giáo dục đại học số 342018QH14 (sửa đổi, bổ sung).pdf": {
-    "storagePath": "docs/dbc8b5/dbc8b5808f59.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/dbc8b5/dbc8b5808f59.pdf",
+    "storagePath": "docs/0a0a03/0a0a034d41d8.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0a0a03/0a0a034d41d8.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/Van ban/Luật Giáo dục đại học số 342018QH14 (sửa đổi, bổ sung).pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/Van ban/Luật Giáo dục đại học số 342018QH14 (sửa đổi, bổ sung).pdf"
   },
   "Nghị định 1232020NĐ-CP quy định về hóa đơn, chứng từ.pdf": {
-    "storagePath": "docs/14b38e/14b38e148995.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/14b38e/14b38e148995.pdf",
+    "storagePath": "docs/16868d/16868de123c2.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/16868d/16868de123c2.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/Van ban/Nghị định 1232020NĐ-CP quy định về hóa đơn, chứng từ.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/Van ban/Nghị định 1232020NĐ-CP quy định về hóa đơn, chứng từ.pdf"
   },
   "Thông tư 782021TT-BTC về hóa đơn điện tử.pdf": {
-    "storagePath": "docs/1e64ae/1e64aec1f1d4.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1e64ae/1e64aec1f1d4.pdf",
+    "storagePath": "docs/588c3d/588c3d16dae7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/588c3d/588c3d16dae7.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/Van ban/Thông tư 782021TT-BTC về hóa đơn điện tử.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU HỌC PHÍ VÀ LỆ PHÍ SINH VIÊN/Van ban/Thông tư 782021TT-BTC về hóa đơn điện tử.pdf"
   },
   "QT.TCKT .15 - 2.png": {
-    "storagePath": "docs/c62f23/c62f230046ff.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c62f23/c62f230046ff.png",
+    "storagePath": "docs/66cd33/66cd33ff27cc.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/66cd33/66cd33ff27cc.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/bieu mau/QT.TCKT .15 - 2.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/bieu mau/QT.TCKT .15 - 2.png"
   },
   "QT.TCKT .15- 4.png": {
-    "storagePath": "docs/5c58d9/5c58d99686a0.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/5c58d9/5c58d99686a0.png",
+    "storagePath": "docs/2c32ba/2c32ba148f10.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2c32ba/2c32ba148f10.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/bieu mau/QT.TCKT .15- 4.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/bieu mau/QT.TCKT .15- 4.png"
   },
   "QT.TCKT.15 - 5.png": {
-    "storagePath": "docs/614a7b/614a7b9a4d53.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/614a7b/614a7b9a4d53.png",
+    "storagePath": "docs/aef2fe/aef2fe6c8dc4.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/aef2fe/aef2fe6c8dc4.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/bieu mau/QT.TCKT.15 - 5.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/bieu mau/QT.TCKT.15 - 5.png"
   },
   "QT.TCKT.15- 3.png": {
-    "storagePath": "docs/a7e6c8/a7e6c8f24819.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a7e6c8/a7e6c8f24819.png",
+    "storagePath": "docs/db4fbf/db4fbf9e35df.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/db4fbf/db4fbf9e35df.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/bieu mau/QT.TCKT.15- 3.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/bieu mau/QT.TCKT.15- 3.png"
   },
   "QT.TCKT.15-1.png": {
-    "storagePath": "docs/3d7db6/3d7db68c2e13.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3d7db6/3d7db68c2e13.png",
+    "storagePath": "docs/dabd47/dabd4722399f.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/dabd47/dabd4722399f.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/bieu mau/QT.TCKT.15-1.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/bieu mau/QT.TCKT.15-1.png"
   },
   "QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA.pdf": {
-    "storagePath": "docs/d0443d/d0443dbab0ce.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d0443d/d0443dbab0ce.pdf",
+    "storagePath": "docs/771c5d/771c5d142304.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/771c5d/771c5d142304.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA.pdf"
   },
   "Thông báo lịch thi chuẩn đầu ra.pdf": {
-    "storagePath": "docs/67e079/67e079c6439b.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/67e079/67e079c6439b.pdf",
+    "storagePath": "docs/033265/03326562c24d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/033265/03326562c24d.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/van ban/Thông báo lịch thi chuẩn đầu ra.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH THU LỆ PHÍ THI CHUẨN ĐẦU RA/van ban/Thông báo lịch thi chuẩn đầu ra.pdf"
   },
   "Quy trình tiến hành kê khai thuế giá trị gia tăng.pdf": {
-    "storagePath": "docs/34f8dd/34f8dd77dff8.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/34f8dd/34f8dd77dff8.pdf",
+    "storagePath": "docs/6a358c/6a358c85a83d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6a358c/6a358c85a83d.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế giá trị gia tăng/Quy trình tiến hành kê khai thuế giá trị gia tăng.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế giá trị gia tăng/Quy trình tiến hành kê khai thuế giá trị gia tăng.pdf"
   },
   "Cơ sở pháp lý chung cho hoạt động kê khai, hoàn thuế và nộp thuế GTGT.pdf": {
-    "storagePath": "docs/a189d4/a189d4699aef.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a189d4/a189d4699aef.pdf",
+    "storagePath": "docs/4b6852/4b6852fcd1cb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4b6852/4b6852fcd1cb.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Cơ sở pháp lý chung cho hoạt động kê khai, hoàn thuế và nộp thuế GTGT.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Cơ sở pháp lý chung cho hoạt động kê khai, hoàn thuế và nộp thuế GTGT.pdf"
   },
   "Hướng dẫn quản lý thuế, mẫu tờ khai thuế GTGT (mẫu 01GTGT, 04GTGT, …).pdf": {
-    "storagePath": "docs/998b14/998b141bae3e.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/998b14/998b141bae3e.pdf",
+    "storagePath": "docs/688ce0/688ce0b2ff1a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/688ce0/688ce0b2ff1a.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Hướng dẫn quản lý thuế, mẫu tờ khai thuế GTGT (mẫu 01GTGT, 04GTGT, …).pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Hướng dẫn quản lý thuế, mẫu tờ khai thuế GTGT (mẫu 01GTGT, 04GTGT, …).pdf"
   },
   "Hướng dẫn áp dụng hóa đơn điện tử trong kê khai và nộp thuế GTGT.pdf": {
-    "storagePath": "docs/6d85e5/6d85e5468652.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6d85e5/6d85e5468652.pdf",
+    "storagePath": "docs/8af86c/8af86c614eb7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/8af86c/8af86c614eb7.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Hướng dẫn áp dụng hóa đơn điện tử trong kê khai và nộp thuế GTGT.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Hướng dẫn áp dụng hóa đơn điện tử trong kê khai và nộp thuế GTGT.pdf"
   },
   "Nghị định 2092013NĐ-CP (và sửa đổi bởi NĐ 122015, 1462017...).pdf": {
-    "storagePath": "docs/ceb4cb/ceb4cb876225.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ceb4cb/ceb4cb876225.pdf",
+    "storagePath": "docs/bba46e/bba46ec8b562.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bba46e/bba46ec8b562.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Nghị định 2092013NĐ-CP (và sửa đổi bởi NĐ 122015, 1462017...).pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Nghị định 2092013NĐ-CP (và sửa đổi bởi NĐ 122015, 1462017...).pdf"
   },
   "Quy định chung về đối tượng chịu thuế, phương pháp tính thuế, thuế suất GTGT.pdf": {
-    "storagePath": "docs/fbce4d/fbce4df3cae9.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/fbce4d/fbce4df3cae9.pdf",
+    "storagePath": "docs/c62827/c628279ddf02.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c62827/c628279ddf02.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Quy định chung về đối tượng chịu thuế, phương pháp tính thuế, thuế suất GTGT.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Quy định chung về đối tượng chịu thuế, phương pháp tính thuế, thuế suất GTGT.pdf"
   },
   "Quy định thời hạn, phương thức kê khai và nộp thuế GTGT theo quý hoặc theo tháng.pdf": {
-    "storagePath": "docs/655846/655846e2b298.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/655846/655846e2b298.pdf",
+    "storagePath": "docs/c8b70c/c8b70cfd7f67.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c8b70c/c8b70cfd7f67.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Quy định thời hạn, phương thức kê khai và nộp thuế GTGT theo quý hoặc theo tháng.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Quy định thời hạn, phương thức kê khai và nộp thuế GTGT theo quý hoặc theo tháng.pdf"
   },
   "Thông tư 2192013TT-BTC (sửa đổi bổ sung bởi Thông tư 262015TT-BTC, TT 782021TT-BTC…).pdf": {
-    "storagePath": "docs/d7b264/d7b2643c3b17.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d7b264/d7b2643c3b17.pdf",
+    "storagePath": "docs/484d30/484d3026b657.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/484d30/484d3026b657.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Thông tư 2192013TT-BTC (sửa đổi bổ sung bởi Thông tư 262015TT-BTC, TT 782021TT-BTC…).pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế giá trị gia tăng/van ban/Thông tư 2192013TT-BTC (sửa đổi bổ sung bởi Thông tư 262015TT-BTC, TT 782021TT-BTC…).pdf"
   },
   "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng năm.pdf": {
-    "storagePath": "docs/e776fd/e776fdb26b53.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/e776fd/e776fdb26b53.pdf",
+    "storagePath": "docs/1b0227/1b0227181af6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1b0227/1b0227181af6.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng năm/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng năm.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng năm/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng năm.pdf"
   },
   "Hướng dẫn chi tiết giảm trừ, miễn thuế, cư trú.pdf": {
-    "storagePath": "docs/e39979/e3997977614f.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/e39979/e3997977614f.pdf",
+    "storagePath": "docs/e6dc00/e6dc001bb17c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/e6dc00/e6dc001bb17c.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng năm/van ban/Hướng dẫn chi tiết giảm trừ, miễn thuế, cư trú.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng năm/van ban/Hướng dẫn chi tiết giảm trừ, miễn thuế, cư trú.pdf"
   },
   "Hướng dẫn tờ khai quyết toán thuế TNCN năm.pdf": {
-    "storagePath": "docs/873398/87339826e1e3.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/873398/87339826e1e3.pdf",
+    "storagePath": "docs/3ee424/3ee424a9a9f5.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3ee424/3ee424a9a9f5.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng năm/van ban/Hướng dẫn tờ khai quyết toán thuế TNCN năm.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng năm/van ban/Hướng dẫn tờ khai quyết toán thuế TNCN năm.pdf"
   },
   "Quy định chung về nghĩa vụ kê khai, nộp thuế.pdf": {
-    "storagePath": "docs/1d287a/1d287a642b73.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1d287a/1d287a642b73.pdf",
+    "storagePath": "docs/16d1ac/16d1acab3e6d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/16d1ac/16d1acab3e6d.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/van ban/Quy định chung về nghĩa vụ kê khai, nộp thuế.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/van ban/Quy định chung về nghĩa vụ kê khai, nộp thuế.pdf"
   },
   "Quy định thời hạn, phương thức kê khai thuế.pdf": {
-    "storagePath": "docs/c47311/c47311d2b451.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c47311/c47311d2b451.pdf",
+    "storagePath": "docs/23a101/23a1019f6159.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/23a101/23a1019f6159.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/van ban/Quy định thời hạn, phương thức kê khai thuế.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/van ban/Quy định thời hạn, phương thức kê khai thuế.pdf"
   },
   "Đăng ký mã số thuế.pdf": {
-    "storagePath": "docs/475d0c/475d0cad2a78.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/475d0c/475d0cad2a78.pdf",
+    "storagePath": "docs/09bd47/09bd47bf94d2.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/09bd47/09bd47bf94d2.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/1. Đăng ký mã số thuế/Đăng ký mã số thuế.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/1. Đăng ký mã số thuế/Đăng ký mã số thuế.pdf"
   },
   "Đăng ký người phụ thuộc.pdf": {
-    "storagePath": "docs/0759c3/0759c3ca7926.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0759c3/0759c3ca7926.pdf",
+    "storagePath": "docs/0b8aa8/0b8aa854c9aa.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0b8aa8/0b8aa854c9aa.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/2. Đăng ký người phụ thuộc/Đăng ký người phụ thuộc.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/2. Đăng ký người phụ thuộc/Đăng ký người phụ thuộc.pdf"
   },
   "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý.pdf": {
-    "storagePath": "docs/3ed939/3ed93977909c.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3ed939/3ed93977909c.pdf",
+    "storagePath": "docs/bd0999/bd0999092f59.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bd0999/bd0999092f59.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý.pdf"
   },
   "Hướng dẫn chi tiết về giảm trừ, khấu trừ thuế TNCN.pdf": {
-    "storagePath": "docs/35e2f3/35e2f3e4aea9.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/35e2f3/35e2f3e4aea9.pdf",
+    "storagePath": "docs/9d09e0/9d09e0cbde82.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9d09e0/9d09e0cbde82.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/van ban/Hướng dẫn chi tiết về giảm trừ, khấu trừ thuế TNCN.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/van ban/Hướng dẫn chi tiết về giảm trừ, khấu trừ thuế TNCN.pdf"
   },
   "Hướng dẫn về tờ khai thuế TNCN theo quý (Mẫu 05KK-TNCN).pdf": {
-    "storagePath": "docs/3ed9c3/3ed9c35d702b.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3ed9c3/3ed9c35d702b.pdf",
+    "storagePath": "docs/f1df67/f1df679d875b.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f1df67/f1df679d875b.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/van ban/Hướng dẫn về tờ khai thuế TNCN theo quý (Mẫu 05KK-TNCN).pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân hàng quý/van ban/Hướng dẫn về tờ khai thuế TNCN theo quý (Mẫu 05KK-TNCN).pdf"
   },
   "Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn.pdf": {
-    "storagePath": "docs/472019/47201968e3c1.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/472019/47201968e3c1.pdf",
+    "storagePath": "docs/185064/18506476814a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/185064/18506476814a.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn/Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn/Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn.pdf"
   },
   "Căn cứ pháp lý chung quy định nghĩa vụ kê khai, nộp thuế TNCN.pdf": {
-    "storagePath": "docs/4d2f46/4d2f46c48bd5.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4d2f46/4d2f46c48bd5.pdf",
+    "storagePath": "docs/761a5b/761a5b2eeaef.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/761a5b/761a5b2eeaef.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn/van ban/Căn cứ pháp lý chung quy định nghĩa vụ kê khai, nộp thuế TNCN.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn/van ban/Căn cứ pháp lý chung quy định nghĩa vụ kê khai, nộp thuế TNCN.pdf"
   },
   "Hướng dẫn chi tiết về thu nhập từ đầu tư vốn, thuế suất 5_, miễn giảm thuế.pdf": {
-    "storagePath": "docs/555878/55587823864d.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/555878/55587823864d.pdf",
+    "storagePath": "docs/f03710/f03710e9c3b5.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f03710/f03710e9c3b5.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn/van ban/Hướng dẫn chi tiết về thu nhập từ đầu tư vốn, thuế suất 5_, miễn giảm thuế.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn/van ban/Hướng dẫn chi tiết về thu nhập từ đầu tư vốn, thuế suất 5_, miễn giảm thuế.pdf"
   },
   "Hướng dẫn mẫu tờ khai 06KK-TNCN đối với tổ chức trả thu nhập từ đầu tư vốn.pdf": {
-    "storagePath": "docs/1a65f0/1a65f0548e8a.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/1a65f0/1a65f0548e8a.pdf",
+    "storagePath": "docs/14fb2a/14fb2ab41cb1.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/14fb2a/14fb2ab41cb1.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn/van ban/Hướng dẫn mẫu tờ khai 06KK-TNCN đối với tổ chức trả thu nhập từ đầu tư vốn.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn/van ban/Hướng dẫn mẫu tờ khai 06KK-TNCN đối với tổ chức trả thu nhập từ đầu tư vốn.pdf"
   },
   "Quy định về thời hạn kê khai và nộp thuế theo quý đối với thuế TNCN khấu trừ tại nguồn.pdf": {
-    "storagePath": "docs/d79094/d79094abd71e.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d79094/d79094abd71e.pdf",
+    "storagePath": "docs/b0291f/b0291f8f1cc6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b0291f/b0291f8f1cc6.pdf",
     "type": "pdf",
-    "originalRelativePath": "Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn/van ban/Quy định về thời hạn kê khai và nộp thuế theo quý đối với thuế TNCN khấu trừ tại nguồn.pdf"
+    "originalRelativePath": "P.TCKT/Quy trình tiến hành kê khai thuế thu nhập cá nhân từ đầu tư vốn/van ban/Quy định về thời hạn kê khai và nộp thuế theo quý đối với thuế TNCN khấu trừ tại nguồn.pdf"
   },
   "QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG.pdf": {
-    "storagePath": "docs/bbe96f/bbe96f969a53.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bbe96f/bbe96f969a53.pdf",
+    "storagePath": "docs/61a5f9/61a5f91743c6.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/61a5f9/61a5f91743c6.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG.pdf"
   },
   "412024QH15 LUẬT BẢO HIỂM XÃ HỘI.pdf": {
-    "storagePath": "docs/577402/5774024cf7b8.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/577402/5774024cf7b8.pdf",
+    "storagePath": "docs/86819e/86819e28bf0c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/86819e/86819e28bf0c.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/van ban/412024QH15 LUẬT BẢO HIỂM XÃ HỘI.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/van ban/412024QH15 LUẬT BẢO HIỂM XÃ HỘI.pdf"
   },
   "452019QH14 Bộ Luật Lao Động.pdf": {
-    "storagePath": "docs/26946b/26946b5e2f82.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/26946b/26946b5e2f82.pdf",
+    "storagePath": "docs/47b40e/47b40e7141bb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/47b40e/47b40e7141bb.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/van ban/452019QH14 Bộ Luật Lao Động.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/van ban/452019QH14 Bộ Luật Lao Động.pdf"
   },
   "Nghị định 1452020NĐ-CP Hướng dẫn tính lương làm thêm giờ.pdf": {
-    "storagePath": "docs/a84cdd/a84cddf4fa29.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a84cdd/a84cddf4fa29.pdf",
+    "storagePath": "docs/26d8b5/26d8b5b08751.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/26d8b5/26d8b5b08751.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/van ban/Nghị định 1452020NĐ-CP Hướng dẫn tính lương làm thêm giờ.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/van ban/Nghị định 1452020NĐ-CP Hướng dẫn tính lương làm thêm giờ.pdf"
   },
   "Nghị định số 742024 Quy định mức lương tối thiểu.pdf": {
-    "storagePath": "docs/2af4c5/2af4c53178c1.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2af4c5/2af4c53178c1.pdf",
+    "storagePath": "docs/d29d05/d29d05079728.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d29d05/d29d05079728.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/van ban/Nghị định số 742024 Quy định mức lương tối thiểu.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/van ban/Nghị định số 742024 Quy định mức lương tối thiểu.pdf"
   },
   "Thông tư 1112013 hướng dẫn thực hiện luật thuế Thu Nhập Cá Nhân.pdf": {
-    "storagePath": "docs/d29698/d2969850d5cd.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d29698/d2969850d5cd.pdf",
+    "storagePath": "docs/2c543b/2c543bf36290.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2c543b/2c543bf36290.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/van ban/Thông tư 1112013 hướng dẫn thực hiện luật thuế Thu Nhập Cá Nhân.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH TÍNH VÀ THANH TOÁN LƯƠNG/van ban/Thông tư 1112013 hướng dẫn thực hiện luật thuế Thu Nhập Cá Nhân.pdf"
   },
   "QT.TCKT.11-2.png": {
-    "storagePath": "docs/2d24d9/2d24d9379e77.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2d24d9/2d24d9379e77.png",
+    "storagePath": "docs/d8ec88/d8ec8812808d.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d8ec88/d8ec8812808d.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH XÁC NHẬN CÔNG NỢ HỌC PHÍ CHO SINH VIÊN RA TRƯỜNG/bieu mau/QT.TCKT.11-2.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH XÁC NHẬN CÔNG NỢ HỌC PHÍ CHO SINH VIÊN RA TRƯỜNG/bieu mau/QT.TCKT.11-2.png"
   },
   "QT.TCKT.11-3.png": {
-    "storagePath": "docs/3a3751/3a375137adef.png",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3a3751/3a375137adef.png",
+    "storagePath": "docs/c9984d/c9984d945c51.png",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/c9984d/c9984d945c51.png",
     "type": "image",
-    "originalRelativePath": "QUY TRÌNH XÁC NHẬN CÔNG NỢ HỌC PHÍ CHO SINH VIÊN RA TRƯỜNG/bieu mau/QT.TCKT.11-3.png"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH XÁC NHẬN CÔNG NỢ HỌC PHÍ CHO SINH VIÊN RA TRƯỜNG/bieu mau/QT.TCKT.11-3.png"
   },
   "QUY TRÌNH XÁC NHẬN CÔNG NỢ HỌC PHÍ CHO SINH VIÊN RA TRƯỜNG.pdf": {
-    "storagePath": "docs/a9c836/a9c836b8e7cb.pdf",
-    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a9c836/a9c836b8e7cb.pdf",
+    "storagePath": "docs/cbd85d/cbd85d1a27dc.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/cbd85d/cbd85d1a27dc.pdf",
     "type": "pdf",
-    "originalRelativePath": "QUY TRÌNH XÁC NHẬN CÔNG NỢ HỌC PHÍ CHO SINH VIÊN RA TRƯỜNG/QUY TRÌNH XÁC NHẬN CÔNG NỢ HỌC PHÍ CHO SINH VIÊN RA TRƯỜNG.pdf"
+    "originalRelativePath": "P.TCKT/QUY TRÌNH XÁC NHẬN CÔNG NỢ HỌC PHÍ CHO SINH VIÊN RA TRƯỜNG/QUY TRÌNH XÁC NHẬN CÔNG NỢ HỌC PHÍ CHO SINH VIÊN RA TRƯỜNG.pdf"
+  },
+  "QUY TRÌNH GIẢI QUYẾT CHẾ ĐỘ ỐM ĐAU VÀ THAI SẢN.pdf": {
+    "storagePath": "docs/db7872/db78722b3641.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/db7872/db78722b3641.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH GIẢI QUYẾT CHẾ ĐỘ ỐM ĐAU VÀ THAI SẢN/QUY TRÌNH GIẢI QUYẾT CHẾ ĐỘ ỐM ĐAU VÀ THAI SẢN.pdf"
+  },
+  "Hướng dẫn Luật Bảo hiểm xã hội về BHXH bắt buộc.pdf": {
+    "storagePath": "docs/a62382/a623829214d7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a62382/a623829214d7.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH GIẢI QUYẾT CHẾ ĐỘ ỐM ĐAU VÀ THAI SẢN/van ban/Hướng dẫn Luật Bảo hiểm xã hội về BHXH bắt buộc.pdf"
+  },
+  "Luật Bảo hiểm xã hội.pdf": {
+    "storagePath": "docs/a721a8/a721a8dcdd2d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a721a8/a721a8dcdd2d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH GIẢI QUYẾT CHẾ ĐỘ ỐM ĐAU VÀ THAI SẢN/van ban/Luật Bảo hiểm xã hội.pdf"
+  },
+  "NGHỊ ĐỊNH CỦA CHÍNH PHỦ.pdf": {
+    "storagePath": "docs/9844a5/9844a548935e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/9844a5/9844a548935e.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH GIẢI QUYẾT CHẾ ĐỘ ỐM ĐAU VÀ THAI SẢN/van ban/NGHỊ ĐỊNH CỦA CHÍNH PHỦ.pdf"
+  },
+  "QĐ Ban hành Quy trình giải quyết hưởng các chế độ BHXH, chi trả các chế độ BHXH, BHTN.pdf": {
+    "storagePath": "docs/41b7ab/41b7ab47ebd1.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/41b7ab/41b7ab47ebd1.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH GIẢI QUYẾT CHẾ ĐỘ ỐM ĐAU VÀ THAI SẢN/van ban/QĐ Ban hành Quy trình giải quyết hưởng các chế độ BHXH, chi trả các chế độ BHXH, BHTN.pdf"
+  },
+  "Quy trình kết thúc Hợp đồng Lao động đối với GVNV.pdf": {
+    "storagePath": "docs/dae6ea/dae6ea810bed.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/dae6ea/dae6ea810bed.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy trình kết thúc Hợp đồng Lao động đối với GVNV/Quy trình kết thúc Hợp đồng Lao động đối với GVNV.pdf"
+  },
+  "Bộ luật Lao động năm 2019.pdf": {
+    "storagePath": "docs/eb8b07/eb8b079451cf.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/eb8b07/eb8b079451cf.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy trình kết thúc Hợp đồng Lao động đối với GVNV/van ban/Bộ luật Lao động năm 2019.pdf"
+  },
+  "QUY TRÌNH QUẢN LÝ ĐÓNG BẢO HIỂM XÃ HỘI BẮT BUỘC.pdf": {
+    "storagePath": "docs/320d75/320d7553b7fb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/320d75/320d7553b7fb.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH QUẢN LÝ ĐÓNG BẢO HIỂM XÃ HỘI BẮT BUỘC/QUY TRÌNH QUẢN LÝ ĐÓNG BẢO HIỂM XÃ HỘI BẮT BUỘC.pdf"
+  },
+  "Luật Giáo dục đại học số 42-VBHN-VPQH.pdf": {
+    "storagePath": "docs/7a614e/7a614ec0631d.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/7a614e/7a614ec0631d.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH QUẢN LÝ ĐÓNG BẢO HIỂM XÃ HỘI BẮT BUỘC/van ban/Luật Giáo dục đại học số 42-VBHN-VPQH.pdf"
+  },
+  "Nghị định số 74-CP Quy định MLTT đối với người lao động làm việc theo HĐLĐ.pdf": {
+    "storagePath": "docs/aef820/aef8204bb5af.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/aef820/aef8204bb5af.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH QUẢN LÝ ĐÓNG BẢO HIỂM XÃ HỘI BẮT BUỘC/van ban/Nghị định số 74-CP Quy định MLTT đối với người lao động làm việc theo HĐLĐ.pdf"
+  },
+  "Quy trình BHXH & Chi tiêu nội bộ 2022 của Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/6d27da/6d27da4b0033.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6d27da/6d27da4b0033.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH QUẢN LÝ ĐÓNG BẢO HIỂM XÃ HỘI BẮT BUỘC/van ban/Quy trình BHXH & Chi tiêu nội bộ 2022 của Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "Quy định chi tiết Luật Giáo dục đại học (Nghị định 99).pdf": {
+    "storagePath": "docs/d5143a/d5143a743936.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/d5143a/d5143a743936.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH QUẢN LÝ ĐÓNG BẢO HIỂM XÃ HỘI BẮT BUỘC/van ban/Quy định chi tiết Luật Giáo dục đại học (Nghị định 99).pdf"
+  },
+  "QUY TRÌNH THANH TOÁN TIỀN LƯƠNG.pdf": {
+    "storagePath": "docs/b78076/b78076548fe7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b78076/b78076548fe7.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH THANH TOÁN TIỀN LƯƠNG/QUY TRÌNH THANH TOÁN TIỀN LƯƠNG.pdf"
+  },
+  "Bộ luật Lao động 2019.pdf": {
+    "storagePath": "docs/51a54f/51a54fdd5e81.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/51a54f/51a54fdd5e81.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH THANH TOÁN TIỀN LƯƠNG/van ban/Bộ luật Lao động 2019.pdf"
+  },
+  "Quy chế chi tiêu nội bộ Năm 2022 của trường ĐHKT Đà Nẵng (Kèm quyết định).pdf": {
+    "storagePath": "docs/ab05be/ab05befb59f8.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ab05be/ab05befb59f8.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH THANH TOÁN TIỀN LƯƠNG/van ban/Quy chế chi tiêu nội bộ Năm 2022 của trường ĐHKT Đà Nẵng (Kèm quyết định).pdf"
+  },
+  "Thông tư hướng dẫn thực hiện Luật thuế TNCN.pdf": {
+    "storagePath": "docs/4fac4c/4fac4c64bbc4.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4fac4c/4fac4c64bbc4.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/QUY TRÌNH THANH TOÁN TIỀN LƯƠNG/van ban/Thông tư hướng dẫn thực hiện Luật thuế TNCN.pdf"
+  },
+  "Quy trình tuyển dụng nhân viên.pdf": {
+    "storagePath": "docs/b55f8f/b55f8f63f2c7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/b55f8f/b55f8f63f2c7.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy trình tuyển dụng nhân viên/Quy trình tuyển dụng nhân viên.pdf"
+  },
+  "Bộ Luật Lao động năm 2024.pdf": {
+    "storagePath": "docs/2841b4/2841b4f16e0e.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2841b4/2841b4f16e0e.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy trình tuyển dụng nhân viên/van ban/Bộ Luật Lao động năm 2024.pdf"
+  },
+  "Quyết định số 2702006QĐ-TTg ngày 27112006 của Thủ tướng Chính phủ về việc thành lập Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/3ca47a/3ca47a842959.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/3ca47a/3ca47a842959.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy trình đề nghị được hưởng phụ cấp trình độ/van ban/Quyết định số 2702006QĐ-TTg ngày 27112006 của Thủ tướng Chính phủ về việc thành lập Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "Quy trình tuyển dụng, đào tạo và bồi dưỡng giảng viên cơ hữu.pdf": {
+    "storagePath": "docs/21eb6e/21eb6ec8efb5.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/21eb6e/21eb6ec8efb5.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy trình tuyển dụng, đào tạo và bồi dưỡng giảng viên cơ hữu/Quy trình tuyển dụng, đào tạo và bồi dưỡng giảng viên cơ hữu.pdf"
+  },
+  "Quy trình về đánh giá mức độ hoàn thành nhiệm vụ đối với cá nhân và tập thể.pdf": {
+    "storagePath": "docs/bf282e/bf282eee93a1.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bf282e/bf282eee93a1.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy trình về đánh giá mức độ hoàn thành nhiệm vụ đối với cá nhân và tập thể/Quy trình về đánh giá mức độ hoàn thành nhiệm vụ đối với cá nhân và tập thể.pdf"
+  },
+  "quyết định số 2702006QĐ-TTg ngày 27112006 của Thủ tướng Chính phủ về việc thành lập Trường Đại học Kiến trúc Đà Nẵng.pdf": {
+    "storagePath": "docs/109a41/109a4172abfb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/109a41/109a4172abfb.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy trình về đánh giá mức độ hoàn thành nhiệm vụ đối với cá nhân và tập thể/van ban/quyết định số 2702006QĐ-TTg ngày 27112006 của Thủ tướng Chính phủ về việc thành lập Trường Đại học Kiến trúc Đà Nẵng.pdf"
+  },
+  "Quy trình đề nghị được hưởng phụ cấp trình độ.pdf": {
+    "storagePath": "docs/0b6a7e/0b6a7e4a5405.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/0b6a7e/0b6a7e4a5405.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy trình đề nghị được hưởng phụ cấp trình độ/Quy trình đề nghị được hưởng phụ cấp trình độ.pdf"
+  },
+  "Quy chế chi tiêu nội bộ.pdf": {
+    "storagePath": "docs/28b459/28b459fde2f7.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/28b459/28b459fde2f7.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy trình đề nghị được hưởng phụ cấp trình độ/van ban/Quy chế chi tiêu nội bộ.pdf"
+  },
+  "Quy định về Thi đua Khen thưởng và Kỷ luật đối với cá nhân và Tập thể.pdf": {
+    "storagePath": "docs/bc57b2/bc57b23341fd.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bc57b2/bc57b23341fd.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TCNS/Quy định về Thi đua Khen thưởng và Kỷ luật đối với cá nhân và Tập thể/Quy định về Thi đua Khen thưởng và Kỷ luật đối với cá nhân và Tập thể.pdf"
+  },
+  "QUY TRÌNH CUỘC TIẾP CÔNG DÂN.pdf": {
+    "storagePath": "docs/eacf96/eacf96d45185.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/eacf96/eacf96d45185.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TTPC/QUY TRÌNH CUỘC TIẾP CÔNG DÂN/Văn bản/QUY TRÌNH CUỘC TIẾP CÔNG DÂN.pdf"
+  },
+  "THÔNG TƯ Số 04.2021.TT-TTCР ngày 01 tháng 10 năm 2021 của Thanh tra Chính phủ.pdf": {
+    "storagePath": "docs/667997/667997d98115.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/667997/667997d98115.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TTPC/QUY TRÌNH CUỘC TIẾP CÔNG DÂN/Văn bản/THÔNG TƯ Số 04.2021.TT-TTCР ngày 01 tháng 10 năm 2021 của Thanh tra Chính phủ.pdf"
+  },
+  "QUY TRÌNH GIẢI QUYẾT KHIẾU NẠI.pdf": {
+    "storagePath": "docs/ef3196/ef3196f6897c.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/ef3196/ef3196f6897c.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TTPC/QUY TRÌNH GIẢI QUYẾT KHIẾU NẠI/Văn bản/QUY TRÌNH GIẢI QUYẾT KHIẾU NẠI.pdf"
+  },
+  "QUY TRÌNH GIẢI QUYẾT TỐ CÁO.pdf": {
+    "storagePath": "docs/2da298/2da298c2ca98.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/2da298/2da298c2ca98.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TTPC/QUY TRÌNH GIẢI QUYẾT TỐ CÁO/Văn bản/QUY TRÌNH GIẢI QUYẾT TỐ CÁO.pdf"
+  },
+  "QUY TRÌNH KIỂM TRA.pdf": {
+    "storagePath": "docs/6d84df/6d84dfc11201.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/6d84df/6d84dfc11201.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TTPC/QUY TRÌNH KIỂM TRA/Văn bản/QUY TRÌNH KIỂM TRA.pdf"
+  },
+  "QUY TRÌNH THANH TRA.pdf": {
+    "storagePath": "docs/e2bfed/e2bfedf10feb.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/e2bfed/e2bfedf10feb.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TTPC/QUY TRÌNH THANH TRA/Văn bản/QUY TRÌNH THANH TRA.pdf"
+  },
+  "Thông tư số 06.2021TT-TTCP của Thanh tra Chính phủ.pdf": {
+    "storagePath": "docs/f41709/f41709ffe529.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/f41709/f41709ffe529.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TTPC/QUY TRÌNH THANH TRA/Văn bản/Thông tư số 06.2021TT-TTCP của Thanh tra Chính phủ.pdf"
+  },
+  "Thông tư số 28.2024TT-BGDĐT của Bộ Giáo dục và Đào tạo.pdf": {
+    "storagePath": "docs/13fdb8/13fdb837d542.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/13fdb8/13fdb837d542.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TTPC/QUY TRÌNH THANH TRA/Văn bản/Thông tư số 28.2024TT-BGDĐT của Bộ Giáo dục và Đào tạo.pdf"
+  },
+  "QUY TRÌNH THANH TRA TUYỂN SINH.pdf": {
+    "storagePath": "docs/06bf3d/06bf3dba628b.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/06bf3d/06bf3dba628b.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.TTPC/QUY TRÌNH THANH TRA TUYỂN SINH/Văn bản/QUY TRÌNH THANH TRA TUYỂN SINH.pdf"
+  },
+  "Quy trình tổ chức kỳ thi ĐGNLMT (nội dung 1 - Thi trắc nghiệm).pdf": {
+    "storagePath": "docs/4ac3ac/4ac3aca0a14a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/4ac3ac/4ac3aca0a14a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.Tuyensinh/Quy trình tổ chức kỳ thi ĐGNLMT (nội dung 1 - Thi trắc nghiệm)/Quy trình tổ chức kỳ thi ĐGNLMT (nội dung 1 - Thi trắc nghiệm).pdf"
+  },
+  "Soạn công văn gửi các bên liên quan về việc tổ chức kỳ thi ĐGNLMT.pdf": {
+    "storagePath": "docs/a5aff6/a5aff653a04f.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/a5aff6/a5aff653a04f.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.Tuyensinh/Soạn công văn gửi các bên liên quan về việc tổ chức kỳ thi ĐGNLMT/Soạn công văn gửi các bên liên quan về việc tổ chức kỳ thi ĐGNLMT.pdf"
+  },
+  "Xây dựng Đề án tuyển sinh.pdf": {
+    "storagePath": "docs/bf11ae/bf11ae035e5a.pdf",
+    "publicUrl": "https://fjuasxkdysuaflcmujjk.supabase.co/storage/v1/object/public/iso-documents/docs/bf11ae/bf11ae035e5a.pdf",
+    "type": "pdf",
+    "originalRelativePath": "P.Tuyensinh/Xây dựng Đề án tuyển sinh/Xây dựng Đề án tuyển sinh.pdf"
   }
 }
