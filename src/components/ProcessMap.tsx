@@ -97,10 +97,12 @@ export default function ProcessMap() {
   // ---- LOAD DATA ----
   useEffect(() => {
     async function loadData() {
+      setIsLoading(true);
       try {
         const { data: groups, error } = await supabase
           .from('process_groups')
-          .select('*, processes(*)');
+          .select('*, processes(*)')
+          .eq('department', selectedModule);
           
         if (error) throw error;
         
@@ -174,6 +176,10 @@ export default function ProcessMap() {
             }
             edgesInitializedRef.current = true;
           }
+        } else {
+          schemaRef.current = [];
+          setNodes([]);
+          setEdges([]);
         }
       } catch (err) {
         console.error('Failed to load process map schema from Supabase:', err);
@@ -183,7 +189,7 @@ export default function ProcessMap() {
     }
     
     loadData();
-  }, [setNodes, setEdges, isDark]);
+  }, [setNodes, setEdges, isDark, selectedModule]);
 
   // ---- UPDATE PROCESS STATUS ----
   const handleUpdateProcessStatus = useCallback(async (processId: string, newStatus: GroupStatus) => {
@@ -425,8 +431,8 @@ export default function ProcessMap() {
   return (
     <div className="w-full h-full overflow-hidden relative" style={{ backgroundColor: t.bgColor }}>
       <ReactFlow
-        nodes={selectedModule === 'finance' ? nodes : []}
-        edges={selectedModule === 'finance' ? edges : []}
+        nodes={nodes}
+        edges={edges}
         onNodesChange={onNodesChange}
         onEdgesChange={onEdgesChange}
         onConnect={editMode ? onConnect : undefined}
@@ -470,7 +476,7 @@ export default function ProcessMap() {
       </ReactFlow>
 
       {/* ===== EMPTY STATE FOR NON-FINANCE MODULES ===== */}
-      <EmptyModuleState selectedModule={selectedModule} />
+      <EmptyModuleState selectedModule={selectedModule} hasData={schemaRef.current.length > 0} />
 
       {/* ===== SIDE SHEET — Node Details ===== */}
       <NodeDetailSheet

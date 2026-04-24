@@ -11,6 +11,9 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "ISO Portal — P.TCKT",
   description: "Trung tâm Kiểm soát Nghiệp vụ ISO — Phòng Tài chính Kế toán, Trường Đại học Kiến trúc Đà Nẵng",
+  icons: {
+    icon: "/logo-dau.png",
+  },
 };
 
 export default function RootLayout({

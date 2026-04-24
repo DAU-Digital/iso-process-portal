@@ -6,10 +6,11 @@ import { AVAILABLE_MODULES } from './types';
 
 interface EmptyModuleStateProps {
   selectedModule: string;
+  hasData: boolean;
 }
 
-export function EmptyModuleState({ selectedModule }: EmptyModuleStateProps) {
-  if (selectedModule === 'finance') return null;
+export function EmptyModuleState({ selectedModule, hasData }: EmptyModuleStateProps) {
+  if (hasData) return null;
   
   return (
     <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-0">
